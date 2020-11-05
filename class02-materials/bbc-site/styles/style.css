@@ -1,0 +1,158 @@
+* {
+    -moz-box-sizing: border-box; /* Firexfox */
+    -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+    box-sizing: border-box; /* IE */
+ }
+   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
+  * {
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    font-family: Arial,Helvetica,sans-serif;
+  }
+  header {
+    background-color: #000000;
+  }
+  .nav_bar {
+    overflow: hidden;
+  }
+  .nav_bar ul {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .nav_bar li {
+    text-align: center;
+    text-decoration: none;
+  }
+  .nav_bar a {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  #main-article{
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/12350/production/_115167547_mediaitem115167546.jpg");
+    background-size: 100% 100%;
+    height: 390px;
+    width: 50%;
+  }
+  #aside-art1 {
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/304/cpsprodpb/16B9/production/_115171850_gettyimages-1227907973.jpg");
+    background-size: 100% 100%;
+    width: 25%;
+  }
+    #aside-art2 {
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/304/cpsprodpb/0273/production/_115172600_e8e118a7-26c7-4826-bdf3-83271c4c3fd3.jpg");
+    background-size: 100% 100%;
+    width: 25%;
+  }
+  #aside-art3 {
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/304/cpsprodpb/17149/production/_115173549_ka_get.jpg");
+    background-size: 100% 100%;
+    width: 25%;
+  }
+   #aside-art4 {
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/304/ibroadcast/images/live/p0/8w/l5/p08wl5hn.jpg");
+    background-size: 100% 100%;
+    width: 25%;
+  }
+  /*
+   header {
+    background-color: #000000;
+    font-family: Arial,Helvetica,sans-serif;
+    height: 41px;
+  }
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  li {
+    border-left: 1px solid #ccc;
+    padding: 3.3px;
+  }
+  .bbcimg {
+    border-left: none;
+  }
+  .more {
+
+  }
+  a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: small;
+  }
+  .container {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .title-date {
+    display: flex;
+    justify-content: space-between;
+  }
+  .articles {
+    float: left;
+  }
+  #main-article{
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/12350/production/_115167547_mediaitem115167546.jpg");
+    background-size: 100% 100%;
+    height: 390px;
+    width: 50%;
+    float: left;
+  }
+  .aside-articles {
+    float: right;
+    width: 49%;
+  }
+  #aside-art1 {
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/304/cpsprodpb/16B9/production/_115171850_gettyimages-1227907973.jpg");
+    float: left;
+    margin-bottom: 10px;
+  }
+  #aside-art2 {
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/304/cpsprodpb/0273/production/_115172600_e8e118a7-26c7-4826-bdf3-83271c4c3fd3.jpg");
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 15px;
+  }
+  #aside-art3 {
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/304/cpsprodpb/17149/production/_115173549_ka_get.jpg");
+    float: left;
+  }
+  #aside-art4 {
+    background: linear-gradient( rgba(0, 0, 0, -0.5), rgba(0, 0, 0, 0.5) ), url("https://ichef.bbc.co.uk/wwhp/304/ibroadcast/images/live/p0/8w/l5/p08wl5hn.jpg");
+    float: left;
+    margin-left: 15px;
+  }
+  #aside-art1, #aside-art2, #aside-art3, #aside-art4 {
+    background-size: 100% 100%;
+    height: 190px;
+    width: 47%;
+  }
+  .main-h3 {
+    color:#ffffff;
+    font-weight: bolder;
+  }
+  .main-p {
+    color: #b3b3b3;
+    font-weight: bolder;
+  }
+  h4 {
+    color:#ffffff;
+    font-weight: bolder;
+  }
+  .media-tag {
+    color:#b3b3b3;
+    font-weight: bold;
+  }
+  ul {
+    list-style-type: none;
+  }
+@media (max-width: 1024px) and (orientation: portrait){
+}
+@media (max-width:1024px)and (orientation: landscape){
+}
+@media (max-width:737px)and (orientation: portrait){
+}
+@media (max-width:737px)and (orientation: landscape){
+}
+*/
