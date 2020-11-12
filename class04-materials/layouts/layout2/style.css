@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+header, section, footer, aside, article {
+    border: 10px solid black;
+}
+header, section, footer {
+    width: 100%;
+    float: left;
+}
+header, footer {
+    height: 16vh;
+}
+section {
+    height: 26vh;
+}
+aside, article {
+    height: 40vh;
+}
+aside {
+    width: 25%;
+    float: left;
+}
+article {
+    width: 75%;
+    float: right;
+}
