@@ -2,12 +2,10 @@
     -moz-box-sizing: border-box; /* Firexfox */
     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
     box-sizing: border-box; /* IE */
- }
-   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
-  * {
     padding: 0;
     margin: 0;
-  }
+ }
+   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
   body {
     font-family: Arial,Helvetica,sans-serif;
   }
