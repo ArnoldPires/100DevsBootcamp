@@ -1,5 +1,15 @@
 * {
     box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
 }
 header, section, footer, aside, article {
     border: 10px solid black;
@@ -10,6 +20,7 @@ header, section, footer {
 }
 header, footer {
     height: 16vh;
+    clear: both;
 }
 section {
     height: 26vh;
