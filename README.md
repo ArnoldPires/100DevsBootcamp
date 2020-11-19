@@ -8,4 +8,5 @@
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class04-materials">Class 4: More CSS</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class05-materials"> Class 5: Reviewing some CSS</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class06-materials"> Class 6: Responsive CSS</a></li>
+   <li><a href="#"> Class 7: Responsive Layouts</a></li>
  </ol>
