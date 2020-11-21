@@ -20,21 +20,32 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
-body {
-
+nav, main, .aside, .articles  {
+  float: left;
 }
-
-
+a {
+  text-decoration: none;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
-header {
-
+nav {
+  width: 10%;
 }
-
-footer {
-
+main {
+  width: 50%;
+}
+aside {
+  width: 40%;
+}
+.articles {
+  width: 100%;
+}
+.articles h2 {
+  width: 100%;
+}
+article {
+  width: 100%;
 }
 
 /******************************************
