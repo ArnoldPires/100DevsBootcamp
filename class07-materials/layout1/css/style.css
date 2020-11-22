@@ -2,7 +2,6 @@
 * {
   box-sizing: border-box;
 }
-
 /* Clear fix hack */
 .clearfix:after {
      content: ".";
@@ -12,23 +11,15 @@
      line-height: 0;
      height: 0;
 }
-
 .clear {
 	clear: both;
 }
-
 /******************************************
 /* BASE STYLES
 /*******************************************/
 nav, main, .aside, .articles  {
   float: left;
 }
-a {
-  text-decoration: none;
-}
-/******************************************
-/* LAYOUT
-/*******************************************/
 nav {
   width: 10%;
 }
@@ -37,6 +28,12 @@ main {
 }
 aside {
   width: 40%;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
 }
 .articles {
   width: 100%;
@@ -47,7 +44,28 @@ aside {
 article {
   width: 100%;
 }
+/******************************************
+/* LAYOUT
+/*******************************************/
+/* Nav */
 
+/* Main */
+
+/* Aside Articles */
+.aside li {
+  border-bottom: 2px gray solid;
+  width: 100%;
+  margin: 0px;
+  padding-bottom: 2%;
+}
+.aside  {
+  font-weight: bold;
+}
+/* Articles */
+.article1 section{
+  width: 33.333333%;
+  float: left;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
