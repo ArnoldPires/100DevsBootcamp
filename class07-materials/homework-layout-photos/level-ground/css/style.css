@@ -1,0 +1,173 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+.clear {
+	clear: both;
+}
+/******************************************
+/* BASE STYLES
+/*******************************************/
+body {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+header, .section1, .section2, .section3 {
+  height: 540px;
+}
+footer {
+  height: 280px;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+  background-color: #66768a;
+  color: white;
+  text-align: center;
+  height: 650px;
+}
+nav ul li, button {
+  margin: 2%;
+}
+nav ul li {
+  float: left;
+  margin: 2%;
+}
+nav img {
+  width: 3%;
+}
+nav button {
+  margin: 2%;
+  float: right;
+  background-color: white;
+  color: #66768a;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+}
+h1 {
+  margin: 3%;
+  font-weight: bold;
+  font-size: 5rem;
+}
+p {
+  font-size: 2rem;
+  padding: 0 20% 0 20%;
+}
+.vid {
+  position: relative;
+  top: 20px;
+  right: 10px;
+  height: 50px;
+}
+header a {
+  color: white;
+  font-size: larger;
+}
+.backp {
+  color: black;
+  font-size: smaller;
+  margin-top: 100px;
+}
+.section1 {
+  height: 600px;
+}
+.section1 h2 {
+  font-size: 3rem;
+  padding-top: 5%;
+}
+.section2 {
+  background-color: #dbdfe2;
+  clear: both;
+  height: 600px;
+}
+.left-box, .right-box {
+  float: left;
+  width: 50%;
+  margin-top: 5%;
+}
+.left-box a, .right-box a, .section3 a {
+  color: black;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 2% 3% 2% 3%;
+}
+.section2 img {
+  max-width: 50%;
+}
+.section2 p {
+  font-size: larger;
+  margin-bottom: 40px;
+}
+.section3 h2 {
+  margin-top: 5%;
+}
+.section3 p {
+  margin-bottom: 5%;
+}
+footer {
+  background-color: #161f2a;
+  color: white;
+}
+footer h3 {
+  font-size: 1rem;
+  margin: 0;
+  color: #66768a;
+}
+.footer-h3 {
+  margin-top: 8%;
+}
+footer a {
+  color: white;
+  font-size: 1rem;
+  padding-left: 5%;
+}
+footer section {
+  margin-right: 2%;
+}
+.footer-links {
+  float: left;
+  padding-left: 1%;
+}
+.footer-info {
+  float: right;
+}
+footer ul {
+  list-style: none;
+  font-size: 1rem;
+  padding: 0;
+}
+footer p {
+  font-size: larger;
+  clear: both;
+  margin: 0;
+}
+hr {
+  margin: 2% ;
+  clear: both;
+}
+.lglogo {
+  float: right;
+  position: relative;
+  bottom: 30px;
+  right: 40px;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
