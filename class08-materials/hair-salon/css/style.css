@@ -2,7 +2,6 @@
 * {
   box-sizing: border-box;
 }
-
 /* Clear fix hack */
 .clearfix:after {
      content: ".";
@@ -12,31 +11,68 @@
      line-height: 0;
      height: 0;
 }
-
 .clear {
 	clear: both;
 }
-
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
 body {
-
+  font-family: Verdana, sans-serif; margin:0
 }
-
-
+.carouselImage {
+  display: none
+}
+img {
+  vertical-align: middle;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
 header {
-
+  padding: 1%;
 }
-
-footer {
-
+ul {
+  display: flex;
+  justify-content: space-evenly;
 }
-
+li {
+  flex: 0 0 auto;
+}
+li:nth-child(1) {
+  margin-right: 10%;
+}
+li:nth-child(10) {
+  margin-left: 10%;
+}
+/* Slideshow container */
+.slideshow {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+.carouselImage img {
+  width: 100%;
+}
+/* Caption text */
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
