@@ -52,15 +52,93 @@ li:nth-child(10) {
   margin-left: 10%;
 }
 /* Slideshow container */
+.image1 {
+  background: linear-gradient(#18161626,#18161626),
+  url(https://images.unsplash.com/photo-1464750329548-977f9793ca3e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80);
+}
+.image2 {
+  background: linear-gradient(#18161626,#18161626),
+  url(https://images.unsplash.com/photo-1512864084360-7c0c4d0a0845?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);
+}
+.image3 {
+   background: linear-gradient(#18161626,#18161626),
+  url(https://images.unsplash.com/photo-1519019121902-896ed7312a9e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);
+}
 .slideshow {
   max-width: 100%;
   position: relative;
   margin: auto;
 }
+.carouselImage {
+  height: 70vh;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
 .carouselImage img {
   width: 100%;
 }
-/* Caption text */
+.text {
+  color: white;
+  padding: 5%;
+}
+.text h2 {
+  font-size: 5rem;
+  font-weight: 100;
+}
+.services {
+  background-color: black;
+  width: 10%;
+  padding: 10px;
+}
+.first-visit {
+  background-color: black;
+  width: 20%;
+  padding: 20px;
+}
+.first-visit span {
+  font-weight: bold;
+  font-size: 2rem;
+}
+.bookOnline {
+  background-color: white;
+  color: black;
+  padding: 5%;
+  width: 55%;
+}
+.container {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.service-offers {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.service-offers i {
+  font-size: 3rem;
+}
+.service-offers section {
+  width: 100%;
+  padding: 5%;
+}
+.video {
+  display: flex;
+}
+.video section {
+  padding: 5%;
+}
+.video h2 {
+  font-size: 3rem;
+  font-weight: 100;
+}
+.readMore {
+  color: white;
+  background-color: black;
+  width: 35%;
+  padding: 20px;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
