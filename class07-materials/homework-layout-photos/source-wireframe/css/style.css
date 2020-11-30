@@ -2,41 +2,122 @@
 * {
   box-sizing: border-box;
 }
-
 /* Clear fix hack */
 .clearfix:after {
-     content: ".";
-     display: block;
-     clear: both;
-     visibility: hidden;
-     line-height: 0;
-     height: 0;
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
 }
-
 .clear {
 	clear: both;
 }
-
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
-body {
-
+li {
+  list-style-type: none;
 }
-
-
+a {
+  text-decoration: none;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
-header {
-
+nav {
+    padding: 5px 20px;
 }
-
-footer {
-
+.menu li {
+    font-size: 16px;
+    padding: 15px 5px;
+    white-space: nowrap;
 }
-
+.logo a,
+.toggle a {
+    font-size: 20px;
+}
+.button.secondary {
+    border-bottom: 1px #444 solid;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+/* Mobile menu */
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.toggle {
+  order: 1;
+}
+.item.button {
+  order: 2;
+}
+.item {
+  width: 100%;
+  text-align: center;
+  order: 3;
+  display: none;
+}
+.item.active {
+  display: block;
+}
+/* Tablet menu */
+@media all and (min-width: 600px) {
+  .menu {
+    justify-content: center;
+  }
+  .logo {
+    margin-right: auto;
+  }
+  .toggle {
+    flex: 1;
+    text-align: right;
+  }
+  .item.button {
+    width: auto;
+    order: 1;
+    display: block;
+  }
+  .toggle {
+    order: 2;
+  }
+  .button.secondary {
+    border: 0;
+  }
+  .button a {
+    padding: 7.5px 15px;
+    background: #304659;
+    color: white;
+  }
+}
+/* Desktop menu */
+@media all and (min-width: 900px) {
+  .item {
+    display: block;
+    width: auto;
+  }
+  .toggle {
+    display: none;
+  }
+  .logo {
+    order: 0;
+  }
+  .item {
+    order: 1;
+  }
+  .button {
+    order: 2;
+    margin-left: auto;
+  }
+  .menu li {
+    padding: 15px 25px;
+  }
+  .menu li.button {
+    padding-right: 0;
+  }
+}
