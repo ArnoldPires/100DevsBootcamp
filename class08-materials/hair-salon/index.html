@@ -7,12 +7,27 @@
 		<link rel="stylesheet" href="css/normalize.css">
 		<link rel="stylesheet" href="css/style.css">
 		<script src="https://kit.fontawesome.com/c01f624491.js" crossorigin="anonymous"></script>
+		<script src="https://arnaldopires.com/UI-Kit/js/jquery-3.2.1.min.js"></script>
 	</head>
 	<body>
 		<header>
 			<nav>
+				<ul class="menu">
+					<li class="logo"><a href="#"><img src="logo.PNG" alt="logo"></a></li>
+					<li class="item"><a href="#">Home</a></li>
+					<li class="item"><a href="#">About</a></li>
+					<li class="item"><a href="#">services</a></li>
+					<li class="item"><a href="#">lookbook</a></li>
+					<li class="item"><a href="#">news</a></li>
+					<li class="item"><a href="#">contact</a></li>
+					<li class="item"><a href="#"><i class="fa fa-search"></i></a></li>
+					<li class="item"><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+					<li class="item book"><a href="#">--book online</a></li>
+					<li class="toggle"><a href="#"><i class="fas fa-bars"></i></a></li>
+				</ul>
+				<!--
 				<ul>
-					<li><a href="#"><img src="logo.PNG" alt="logo" class="logo"></a></li>
+					<li><a href="#"><img src="logo.PNG" alt="logo"></a></li>
 					<li><a href="#">HOME</a></li>
 					<li><a href="#">ABOUT</a></li>
 					<li><a href="#">SERVICES</a></li>
@@ -22,44 +37,46 @@
 					<li><a href="#"><i class="fa fa-search"></i></a></li>
 					<li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
 					<li><a href="#">-- BOOK ONLINE</a></li>
+					<li class="toggle"><a href="#"><i class="fas fa-bars"></i></a></li>
 				</ul>
+			-->
 			</nav>
 		</header>
 		<section class="slideshow">
 			<section class="carouselImage Slideimage1">
 				<section class="text">
-					<h2>BLONDE & HIGHLIGHT</h2>
+					<h2>BLONDE<br> & HIGHLIGHT</h2>
 					<p>DIVIDE YOUR UNQUENSS BY YOUR HAIRS IN STYLE</p>
 					<p class="services">-- OUR SERVICES</p>
-					<section class="first-visit">
-						<p>YOUR FIRST VISIT?</p>
-						<p><span>-20%</span>FOR THE FIRST CLASSIC HAIR COLORING</p>
-						<p class="bookOnline">-BOOK ONLINE</p>
-					</section>
+				</section>
+				<section class="first-visit">
+					<h3>Your First Visit?</h3>
+					<p><span>-20%</span>FOR THE FIRST CLASSIC HAIR COLORING</p>
+					<p class="bookOnline">- BOOK ONLINE</p>
 				</section>		
 			</section>	
 			<section class="carouselImage Slideimage2">
 				<section class="text">
-					<h2>BLONDE & HIGHLIGHT2</h2>
+					<h2>BLONDE<br> & HIGHLIGHT</h2>
 					<p>DIVIDE YOUR UNQUENSS BY YOUR HAIRS IN STYLE</p>
 					<p class="services">-- OUR SERVICES</p>
-					<section class="first-visit">
-						<p>YOUR FIRST VISIT?</p>
-						<p><span>-20%</span>FOR THE FIRST CLASSIC HAIR COLORING</p>
-						<p class="bookOnline">-BOOK ONLINE</p>
-					</section>
+				</section>
+				<section class="first-visit">
+					<h3>Your First Visit?</h3>
+					<p><span>-20%</span>FOR THE FIRST CLASSIC HAIR COLORING</p>
+					<p class="bookOnline">- BOOK ONLINE</p>
 				</section>
 			</section>		
 			<section class="carouselImage Slideimage3">
 				<section class="text">
-					<h2>BLONDE & HIGHLIGHT3</h2>
+					<h2>BLONDE<br> & HIGHLIGHT</h2>
 					<p>DIVIDE YOUR UNQUENSS BY YOUR HAIRS IN STYLE</p>
 					<p class="services">-- OUR SERVICES</p>
-					<section class="first-visit">
-						<p>YOUR FIRST VISIT?</p>
-						<p><span>-20%</span>FOR THE FIRST CLASSIC HAIR COLORING</p>
-						<p class="bookOnline">-BOOK ONLINE</p>
-					</section>
+				</section>
+				<section class="first-visit">
+					<h3>Your First Visit?</h3>
+					<p><span>-20%</span>FOR THE FIRST CLASSIC HAIR COLORING</p>
+					<p class="bookOnline">- BOOK ONLINE</p>
 				</section>
 			</section>				
 		</section>
@@ -84,58 +101,65 @@
 			</section>
 		</section>
 		<section class="video">
-			<section>
+			<section class="momentum">
 				<h2>MAKE YOUR OWN MOMENTUM</h2>
 				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum maiores voluptatum quibusdam, dolorem sunt, assumenda, molestias dolor amet eaque expedita impedit quae nisi nobis iste soluta possimus. Quos, quo totam.</p>
 				<p class="readMore">-- READ MORE</p>
 			</section>
-			<section>
-				<iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
-			</section>
+			<section class="barberVideo"></section>
 		</section>
-		<section class="barbers">
-			<section class="barber1">
-				<!--find and set png images as background images-->
-				<p>ENTER NAME HERE</p>
-				<span>-COLOURIST</span>
-			</section>
-			<section class="barber2">
-				<p>ENTER NAME HERE</p>
-				<span>-STYLER</span>
-			</section>
-			<section class="barber3">
-				<p>ENTER NAME HERE</p>
-				<span>-BEAUTICIAN</span>
-			</section>
+		<section class="barbers-wrapper">
+			<div class="barber-container">
+				<div class="barber-box">
+					<img src="images/barber5.jpg">
+				</div>
+				<div class="barber-details">
+					<h5>DeShawn Marquis</h5>
+					<h6>- Barber</h6>
+				</div>
+			</div>
+			<div class="homegirl-container">
+				<div class="barber-box">
+					<img src="images/barber6.jpg">
+				</div>
+				<div class="barber-details">
+					<h5>Terrell Andre</h5>
+					<h6>- Barber</h6>
+				</div>
+			</div>
+			<div class="homegirl-container">
+				<div class="barber-box">
+					<img src="images/barber7.jpg">
+				</div>
+				<div class="barber-details">
+					<h5>Demetrius Willie</h5>
+					<h6>- Barber</h6>
+				</div>
+			</div>
+			</div>
 		</section>
 		<section class="offer">
-			<section> <!--Add a background image to this section with text over it, like the slides-->
-				<p>COLOR DAY OFFER!</p>
-				<h3><span>-10%</span>ON HAIRCUT COLOR AND HIGHLIGHT</h3>
-				<p class="appointment">-- BOOK APPOINTMENT</p> <!--Make this backgorund black-->
+			<section>
+				<p>Color Day offer</p>
+				<h3><span>-10% </span>On haircut color and hightlight</h3>
+				<p class="appointment">-- Book Appointment</p>
 			</section>
 		</section>
 		<section class="lookbook">
 			<h2>OUR LOOKBOOK</h2>
 			<hr>
 			<section class="pictures">
-				<section class="image1">
-					<img src="#">
+				<section class="col">
+					<img class="small" src="images/image1.jpg">
+					<img class="large" src="images/image2.jpg">
 				</section>
-				<section class="image2">
-					<img src="#">
+				<section class="col">
+					<img class="large" src="images/image4.jpg">
+					<img class="small sm" src="images/image3.jpg">
 				</section>
-				<section class="image3">
-					<img src="#">
-				</section>
-				<section class="image4">
-					<img src="#">
-				</section>
-				<section class="plusSign">
-					<img src="#">
-				</section>
-				<section class="image6">
-					<img src="#">
+				<section class="col">
+					<img class="small" src="images/image5.jpg">
+					<img class="large" src="images/image6.jpg">
 				</section>
 			</section>
 		</section>
