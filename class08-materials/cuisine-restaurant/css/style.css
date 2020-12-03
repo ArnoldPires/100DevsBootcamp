@@ -4,12 +4,12 @@
 }
 /* Clear fix hack */
 .clearfix:after {
-    content: ".";
-    display: block;
-    clear: both;
-    visibility: hidden;
-    line-height: 0;
-    height: 0;
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
 }
 .clear {
 	clear: both;
@@ -17,43 +17,187 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
+/*
 body {
   font-family: Verdana, sans-serif; margin:0
 }
 li {
-  display: inline-block;
   list-style-type: none;
-  float: right;
-  padding: 20px;
 }
 a {
   text-decoration: none;
-  font-weight: bold;
+  color: inherit;
 }
-input{    
-    background: url("https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/search-512.png") top left     no-repeat;
-    height:30px;
-    padding-left:25px;   
+*/
+body {
+  margin: 0px;
+  font-family: 'segoe ui';
 }
+a {
+  color: inherit;
+}
+
+
 /******************************************
 /* LAYOUT
 /*******************************************/
+.nav {
+  height: 50px;
+  width: 100%;
+  position: relative;
+}
+.nav > .nav-header {
+  display: inline;
+}
+.nav > .nav-header > .nav-title {
+  display: inline-block;
+  font-size: 22px;
+  padding: 10px 10px 10px 10px;
+}
+.nav > .nav-btn {
+  display: none;
+}
+.nav > .nav-links {
+  display: inline;
+  float: right;
+  font-size: 18px;
+}
+.nav > .nav-links > a {
+  display: inline-block;
+  padding: 1rem 2rem 1rem 2rem;
+  text-decoration: none;
+}
+.nav > .nav-links > a:hover {
+  color: #ff8800;
+}
+.nav > #nav-check {
+  display: none;
+}
+
 header {
-    height: 70px;
-    width: 100%;
+  background: url(https://iltuouniversodonna.it/wp-content/uploads/2019/06/cistite-cosa-mangiare-e1560516269141-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  padding-top: 0;
+  height: auto;
+  contain: content
+}
+.welcome, .container {
+  padding: 5% 10%;
+  clear:both;
+  width: 100%;
+}
+h1 {
+  font-weight: bold;
+  font-size: 6rem;
+  margin: 0;
+}
+.welcome form input {
+  border: 2px solid #dde8ec;
+  width: 35%;
+}
+.welcome button, .welcome input {
+  font-size: 1.5rem;
+  font-weight: 100;
+  display: inline;
+  padding: 10px;
+  border-radius: 5px;
+}
+.welcome button {
+  color: white;
+  background-color: #ff8800;
+  border: #ff8800;
+}
+/*
+header {
+  width: 100%;
+  background: linear-gradient(#18161626,#18161626), url(https://iltuouniversodonna.it/wp-content/uploads/2019/06/cistite-cosa-mangiare-e1560516269141-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40rem;
+  background-position: center;
+  background-attachment: fixed;
+}
+.topnav {
+  overflow: hidden;
+  color: black;
+}
+.topnav a {
+  float: right;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav .icon {
+  display: none;
 }
 .welcome {
-    padding: 10%;
+  padding-left: 8rem;
+  width: 100%;
+  overflow: hidden;
+}
+.welcome h1 {
+  font-size: 4rem;
+  width: 39.6rem;
+}
+.formContainer {
+  display: flex;
+}
+.formContainer input {
+  width: 25rem;
+  height: 3rem;
+  border-radius: 5px;
+}
+.formBtn button {
+  height: 3rem;
+  width: 10rem;
+  background-color: #ff8800;
+  color: white;
 }
 .fa.fa-search {
-    position: relative;
-    right: 230px
+  position: relative;
+  right: 230px
 }
 .slideimages {
-    display: none
+  display: none
+}
+.social ul {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+}
+.social ul li i {
+  color: #ff8800;
 }
 img {
-    vertical-align: middle;
+  vertical-align: middle;
+}
+.about-us {
+  width: 100%;
+  background: linear-gradient(#18161626,#18161626), url(https://iltuouniversodonna.it/wp-content/uploads/2019/06/cistite-cosa-mangiare-e1560516269141-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40rem;
+  background-position: center;
+  background-attachment: fixed;
+}
+.order {
+  width: 100%;
+  background: linear-gradient(#18161626,#18161626),
+  url(../img/pie.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40rem;
+  background-position: center;
+  background-attachment: fixed;
 }
 .slideshow-container {
   max-width: 1000px;
@@ -61,9 +205,9 @@ img {
   margin: auto;
 }
 .slideshow-container img {
-    height: 60vh;
-    width: 100%;
-    object-fit: cover;
+  height: 60vh;
+  width: 100%;
+  object-fit: cover;
 }
 .back, .next {
   cursor: pointer;
@@ -102,8 +246,86 @@ img {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+@media (max-width:600px) {
+  .nav > .nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  .nav > .nav-btn > label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+  }
+  .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  .nav > .nav-btn > label > span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid black;
+  }
+  .nav > .nav-links {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 0px;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 50px;
+    left: 0px;
+  }
+  .nav > .nav-links > a {
+    display: block;
+    width: 100%;
+  }
+  .nav > #nav-check:not(:checked) ~ .nav-links {
+    height: 0px;
+  }
+  .nav > #nav-check:checked ~ .nav-links {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+    background-color: beige;
+  }
+  h1 {
+    font-size: 4rem;
+  }
+  .welcome form input {
+    width: 60%;
+  }
+}
+
+
+
+
+/*
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
 /* On smaller screens, decrease text size */
+/*
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
+}
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
 }
