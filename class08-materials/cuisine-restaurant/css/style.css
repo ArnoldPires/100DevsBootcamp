@@ -35,8 +35,11 @@ body {
 }
 a {
   color: inherit;
+  text-decoration: none;
 }
-
+li {
+  list-style-type: none;
+}
 
 /******************************************
 /* LAYOUT
@@ -73,21 +76,23 @@ a {
 .nav > #nav-check {
   display: none;
 }
-
 header {
   background: url(https://iltuouniversodonna.it/wp-content/uploads/2019/06/cistite-cosa-mangiare-e1560516269141-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
-  padding-top: 0;
   height: auto;
   contain: content
 }
 .welcome, .container {
-  padding: 5% 10%;
+  float: left;
   clear:both;
   width: 100%;
+  margin-bottom: 5rem;
+}
+.welcome {
+  padding: 0 10%;
 }
 h1 {
   font-weight: bold;
@@ -109,6 +114,85 @@ h1 {
   color: white;
   background-color: #ff8800;
   border: #ff8800;
+}
+.social-media-links ul {
+  font-size: 1.5rem;
+  display: flex;
+}
+.social-media-links li {
+  padding-right: 3rem;
+}
+.social-media-links i {
+  color: #ff8800;
+}
+.about-us {
+  background: url(https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  height: auto;
+  contain: content;
+  padding-top: 5rem;
+}
+.discover {
+  background-color: #edf0f6f5;
+  padding: 5% 10%;
+  width: 60%;
+  float: right;
+  margin-bottom: 5%;
+  margin-right: 10%;
+  border-radius: 5rem;
+}
+.discover h2 {
+  color: #ff8800;
+}
+.discover h3 {
+  font-size: 6rem;
+}
+.discover button {
+  background-color: #ff8800;
+  color: white;
+  border-radius: 5px;
+  border: 2px solid #ff8800;
+  padding: 2%;
+}
+.order-now {
+  padding: 5% 10%;
+}
+.food-selection {
+  text-align: center;
+}
+.food-selection h2 {
+  color: #ff8800;
+}
+.food-selection h3 {
+  font-size: 6rem;
+  margin: 0;
+}
+.food-selection ul {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid black;
+  padding-bottom: 1%;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+.food-selection ul li {
+  padding-right: 5rem;
+}
+.food-selection ul li a:hover {
+  color: #ff8800;
+}
+.food {
+  margin-top: 5%;
+}
+.food img {
+  height: 30rem;
+  width: 20rem;
+  object-fit: cover;
+  padding: 1%;
 }
 /*
 header {
@@ -295,6 +379,30 @@ img {
   }
   .welcome form input {
     width: 60%;
+  }
+  .about-us {
+    padding-top: 0;
+  }
+  .discover {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .discover h3 {
+    font-size: 3.1rem;
+  }
+  .food-selection h3 {
+    font-size: 3.2rem;
+  }
+  .food-selection ul {
+    width: auto;
+    padding-left: 0;
+  }
+  .food-selection ul li {
+    padding-right: 1.5rem;
+  }
+  .food img {
+    height: 15rem;
   }
 }
 
