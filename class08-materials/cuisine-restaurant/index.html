@@ -10,38 +10,75 @@
 	</head>
 	<body>
 		<header>
-			<nav class="Nav_bar">
-				<ul>
-					<li><a href="#"><i class="fas fa-search"></i></a></li>
-					<li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
-					<li><a href="#">Location</a></li>
-					<li><a href="#">Blog</a></li>
-					<li><a href="#">Order Now</a></li>
-					<li><a href="#">Menu</a></li>
-					<li><a href="#">About Us</a></li>
-					<li><a href="#">Home</a></li>
-				</ul>
+			<nav>
+				<section class="nav">
+					<input type="checkbox" id="nav-check">	
+					<section class="nav-btn">
+						<label for="nav-check">
+							<span></span>
+							<span></span>
+							<span></span>
+						</label>
+					</section>
+					<section class="nav-links">
+						<a href="#">Home</a>
+						<a href="#">About Us</a>
+						<a href="#">Menu</a>
+						<a href="#">Order Now</a>
+						<a href="#">Blog</a>
+						<a href="#">Location</a>
+						<a href="#"><i class="fas fa-search"></i></a>
+						<a href="#"><i class="fas fa-shopping-cart"></i></a>
+					</section>
+				</section>
 			</nav>
+			<section class="welcome">
+				<h1>Welcome <br> To Our Cuisine <br> Restaurant</h1>
+				<form class="searchbtn" action="#">
+					<input type="text" placeholder="Search here" name="location">
+					<button type="submit">Location</button>
+				</form>
+			</section>
 		</header>
-		<main>
-			<section class="welcome"> <!--Set a background image on this-->
-				<h1>Welcome to our Cuisine Restaurant</h1>
-				<div class="wrap">
-					<div class="search">
-						<input type="text" class="searchTerm"  placeholder="Search here"><i class="fa fa-search"></i>
-						<button type="submit" class="searchButton">
-							<a href="#">Location<i class="fas fa-sort-down"></i></a>
-						</button>
-					</div>
+		<section class="container">
+
+		</section>
+		<!--
+		<header>
+			<nav>
+				<div class="topnav" id="myTopnav">
+					<a href="#"><i class="fas fa-search"></i></a>
+					<a href="#"><i class="fas fa-shopping-cart"></i></a>
+					<a href="#">Location</a>
+					<a href="#">Blog</a>
+					<a href="#">Order Now</a>
+					<a href="#">Menu</a>
+					<a href="#">About Us</a>
+					<a href="#">Home</a>
+					<a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
 				</div>
-				<section class="social-media">
-					<i class="fab fa-facebook-f"><span>252k</span></i>
-					<i class="fab fa-twitter">62k</i>
-					<i class="fab fa-instagram">55k</i>
+			</nav>
+			<section class="welcome">
+				<h1>Welcome <br> to our Cuisine Restaurant</h1>
+				<section class="formContainer">
+					<form action="#">
+						<a href="#"></a>
+						<input type="text" placeholder="Search here">
+					</form>
+					<section class="formBtn">
+						<button href="#">Location<i class="fas fa-sort-down"></i></button>
+					</section>
+				</section>
+					<section class="social">
+					<ul>
+						<li></li><li><a href=""> <i class="fab social fa-facebook-f"></i> </a> <span>252K</span> </li>
+						<li><a href=""><i class="fab social fa-twitter"></i></a> <span>62K</span></li>
+						<li><a href=""><i class="fab social fa-instagram"></i></a><span>55K</span></li>
+					</ul>
 				</section>
 			</section>
-		</main>
-		<section class="about-us"><!--Set background image-->
+		</header>
+		<section class="about-us">
 			<p>About us</p>
 			<h2>Discover Our Restaurant Story</h2>
 			<p>Cuisine is a team work of Cuisine Restaurant Cafe, we aim at promoting the foodstuff in dustry through the branches. We establish and through the new dishes and integrate between different cultures. Nullam quis ante. Etiam sit amet orci eget eros Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate mollitia, reiciendis nam architecto maiores unde aut modi, tenetur illum velit, voluptates quas ducimus necessitatibus labore atque exercitationem nesciunt voluptas. Rerum.</p>
@@ -67,7 +104,6 @@
 						<img src="#">
 						<img src="#">
 					</section>
-					<!--Second row-->
 					<section class="food-row2">
 						<img src="#">
 						<img src="#">
@@ -134,6 +170,7 @@
 				molestiae fugit commodi magnam sit non laborum consequatur magni accusantium! Magni, doloribus.</p>
 			</section>
 		</section>
+	-->
 	</body>
 	<script type="text/javascript" src="js/main.js"></script>
 </html>
