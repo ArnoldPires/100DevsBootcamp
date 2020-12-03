@@ -82,7 +82,7 @@ header {
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
-  height: auto;
+  height: 60rem;
   contain: content
 }
 .welcome, .container {
@@ -92,7 +92,7 @@ header {
   margin-bottom: 5rem;
 }
 .welcome {
-  padding: 0 10%;
+  padding: 10% 10%;
 }
 h1 {
   font-weight: bold;
@@ -194,94 +194,64 @@ h1 {
   object-fit: cover;
   padding: 1%;
 }
-/*
-header {
-  width: 100%;
-  background: linear-gradient(#18161626,#18161626), url(https://iltuouniversodonna.it/wp-content/uploads/2019/06/cistite-cosa-mangiare-e1560516269141-1.jpg);
+.reservation {
+  background: url(https://images.unsplash.com/photo-1528699633788-424224dc89b5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=674&q=80);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 40rem;
-  background-position: center;
+  background-position: bottom;
   background-attachment: fixed;
+  height: auto;
+  contain: content;
+  padding-top: 5rem;
 }
-.topnav {
-  overflow: hidden;
-  color: black;
+.hours {
+  background-color: #edf0f6f5;
+  padding: 5% 10%;
+  width: 60%;
+  float: left;
+  margin-bottom: 5%;
+  margin-left: 10%;
+  border-radius: 5rem;
 }
-.topnav a {
-  float: right;
-  display: block;
+.hours h2, .hours h3 {
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
 }
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-.topnav .icon {
-  display: none;
-}
-.welcome {
-  padding-left: 8rem;
-  width: 100%;
-  overflow: hidden;
-}
-.welcome h1 {
-  font-size: 4rem;
-  width: 39.6rem;
-}
-.formContainer {
-  display: flex;
-}
-.formContainer input {
-  width: 25rem;
-  height: 3rem;
-  border-radius: 5px;
-}
-.formBtn button {
-  height: 3rem;
-  width: 10rem;
-  background-color: #ff8800;
-  color: white;
-}
-.fa.fa-search {
-  position: relative;
-  right: 230px
-}
-.slideimages {
-  display: none
-}
-.social ul {
-  display: flex;
-  flex-direction: row;
-  padding: 0;
-}
-.social ul li i {
+.hours h2 {
   color: #ff8800;
 }
-img {
-  vertical-align: middle;
+.hours h3 {
+  font-size: 6rem;
+  margin: 0;
 }
-.about-us {
-  width: 100%;
-  background: linear-gradient(#18161626,#18161626), url(https://iltuouniversodonna.it/wp-content/uploads/2019/06/cistite-cosa-mangiare-e1560516269141-1.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 40rem;
-  background-position: center;
-  background-attachment: fixed;
+.number {
+  color: #ff8800;
+  font-size: 2rem;
+  font-weight: bold;
 }
-.order {
-  width: 100%;
-  background: linear-gradient(#18161626,#18161626),
-  url(../img/pie.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 40rem;
-  background-position: center;
-  background-attachment: fixed;
+address {
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+address .date {
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+}
+.date {
+  padding-top: 10%;
+}
+.date p {
+  margin: 0;
+}
+.time {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.orange-phone {
+  color: #ff8800;
+  font-size: 3rem;
+  margin: 0;
 }
 .slideshow-container {
   max-width: 1000px;
@@ -326,6 +296,24 @@ img {
 }
 .active, .dot:hover {
   background-color: #717171;
+}
+.testimonals {
+  padding: 5% 10%;
+}
+.opinions {
+  text-align: center;
+}
+.orange {
+  color: #ff8800;
+  font-size: 1.5rem;
+}
+.opinions h2 {
+  font-size: 6rem;
+  margin: 0;
+}
+.opinions img {
+  border-radius: 20rem;
+  height: 20rem;
 }
 /******************************************
 /* ADDITIONAL STYLES
@@ -377,6 +365,9 @@ img {
   h1 {
     font-size: 4rem;
   }
+  header {
+    height: auto;
+  }
   .welcome form input {
     width: 60%;
   }
@@ -404,36 +395,21 @@ img {
   .food img {
     height: 15rem;
   }
-}
-
-
-
-
-/*
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
-/* On smaller screens, decrease text size */
-/*
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
-}
-@media screen and (max-width: 600px) {
-  .topnav a:not(:first-child) {display: none;}
-  .topnav a.icon {
-    float: right;
-    display: block;
+  .reservation {
+    padding-top: 0;
   }
+  .hours {
+    margin-bottom: 0;
+    margin-left: 0;
+    width: 100%;
+  }
+  .hours h3 {
+    font-size: 4rem;
+  }
+  .time {
+    font-size: 1.1rem;
+  }
+  .opinions h2 {
+  font-size: 3rem;
 }
-@media screen and (max-width: 600px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  .topnav.responsive a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-
 }
