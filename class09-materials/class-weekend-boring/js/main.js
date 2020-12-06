@@ -1,10 +1,21 @@
-document.querySelector('#check').addEventListener('click', check)
-
-function check() {
-
-  const day = document.querySelector('#day').value
-
-  //Conditionals go here
-
-
+function mon() {
+  document.getElementById("placeToSee").innerHTML = "Boring day!"
+}
+function tues() {
+  document.getElementById("placeToSee").innerHTML = "Class!"
+}
+function wed() {
+  document.getElementById("placeToSee").innerHTML = "Boring day!"
+}
+function thur() {
+  document.getElementById("placeToSee").innerHTML = "Class!"
+}
+function fri() {
+  document.getElementById("placeToSee").innerHTML = "Boring day!"
+}
+function sat() {
+  document.getElementById("placeToSee").innerHTML = "Office Hours!"
+}
+function sun() {
+  document.getElementById("placeToSee").innerHTML = "Boring day!"
 }
