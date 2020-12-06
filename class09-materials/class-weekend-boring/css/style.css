@@ -13,6 +13,11 @@
 h1, h2, form{
   text-align: center;
 }
+section {
+  display: flex;
+  width: 30%;
+  margin: 0 auto;
+}
 button{
   display: block;
   margin: 20px auto;
