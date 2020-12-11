@@ -1,25 +1,25 @@
-const andi = document.querySelector('#andi')
-const claire = document.querySelector('#claire')
-const sharleen = document.querySelector('#sharleen')
+const piccolo = document.querySelector("#piccolo");
+const goku = document.querySelector("#goku");
+const vegeta = document.querySelector("#vegeta");
 
-document.querySelector('#andiNext').addEventListener('click', /*INSERTCODE*/)
-document.querySelector('#claireNext').addEventListener('click', /*INSERTCODE*/)
-document.querySelector('#sharleenNext').addEventListener('click', /*INSERTCODE*/)
+document.querySelector("#piccoloNext").addEventListener("click", piccoloNext);
+document.querySelector("#gokuNext").addEventListener("click", gokuNext);
+document.querySelector("#vegetaNext").addEventListener("click", vegetaNext);
 
-function andiNext(){
-	claire.classList.add(/*INSERTCODE*/)
-	sharleen.classList.add(/*INSERTCODE*/)
-	andi.classList.toggle(/*INSERTCODE*/)
+function piccoloNext() {
+  piccolo.classList.add("hidden");
+  goku.classList.add("hidden");
+  vegeta.classList.toggle("hidden");
 }
 
-function claireNext(){
-	/*INSERTCODE*/.classList.add(/*INSERTCODE*/)
-	/*INSERTCODE*/.classList.add(/*INSERTCODE*/)
-	/*INSERTCODE*/.classList.toggle(/*INSERTCODE*/)
+function gokuNext() {
+  goku.classList.add("hidden");
+  vegeta.classList.add("hidden");
+  piccolo.classList.toggle("hidden");
 }
 
-function sharleenNext(){
-	/*INSERTCODE*/.classList.add(/*INSERTCODE*/)
-	/*INSERTCODE*/.classList.add(/*INSERTCODE*/)
-	/*INSERTCODE*/.classList.toggle(/*INSERTCODE*/)
+function vegetaNext() {
+  vegeta.classList.add("hidden");
+  piccolo.classList.add("hidden");
+  goku.classList.toggle("hidden");
 }
