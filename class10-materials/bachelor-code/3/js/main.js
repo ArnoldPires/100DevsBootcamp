@@ -1,11 +1,13 @@
-const contestants = document.querySelectorAll(/*INSERTCODE*/)
+const dbz = document.querySelectorAll(".dbzc");
 
-Array.from(contestants).forEach(element => element.addEventListener('click', /*INSERTCODE*/))
+for (element of dbz) {
+  element.addEventListener("click", godCheck);
+}
 
-function checkForRose(click){
-	if(click.target.classList.contains(/*INSERTCODE*/)){
-		document.querySelector('#nikki').classList.toggle(/*INSERTCODE*/)
-	}else{
-		alert("Wrong!");
-	}
+function godCheck(click) {
+  if (click.target.classList.contains("notGod")) {
+   alert("Wrong!");
+  } else {
+	  alert("Right!");
+  }
 }
