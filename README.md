@@ -12,4 +12,5 @@
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class08-materials"> Class 8: More site layouts/ Homework</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class09-materials"> Class 9: Javascript intro</a></li>
   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class10-materials"> Class 10: More Javascript</a></li>
+  <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class11-materials"> Class 11: Javascript Review</a></li>
  </ol>
