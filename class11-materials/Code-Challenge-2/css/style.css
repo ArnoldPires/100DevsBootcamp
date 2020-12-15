@@ -6,12 +6,22 @@
 *{
   box-sizing: border-box;
 }
-
 /******************************************
 /* LAYOUT
 /*******************************************/
-
-
+body{
+  text-align: center;
+}
+.container {
+  display: flex;
+  width: 25rem;
+}
+.container, footer {
+  margin: 0 auto;
+}
+footer {
+  width: 10rem;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
