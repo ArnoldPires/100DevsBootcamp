@@ -13,4 +13,5 @@
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class09-materials">Class 9: Javascript intro</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class10-materials">Class 10: More Javascript</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class11-materials">Class 11: Javascript Review</a></li>
+   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class12-materials">Class 12: Intro to Freelancing</a></li>
  </ol>
