@@ -1,7 +1,6 @@
 /******************************************
 /* CSS
 /*******************************************/
-
 /* Box Model Hack */
 *{
   box-sizing: border-box;
@@ -20,9 +19,11 @@ body{
   margin: 0 auto;
 }
 footer {
-  width: 10rem;
+  width: 35rem;
 }
-
+footer section {
+  display: flex;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
