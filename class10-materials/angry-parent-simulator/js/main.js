@@ -7,7 +7,31 @@ function run() {
   document.querySelector('#placeToWelcome').innerText = welcomeText
   let welcomeThis = new SpeechSynthesisUtterance(welcomeText);
   synth.speak(welcomeThis);
- }
+}
+
+document.getElementsByClassName('btn')[1].addEventListener('click', runText)
+function runText() {
+  let textText =  `Our target is a notorious thug whose murdered several people in many different sectors of space. Our orders are to bring him in, dead or alive. `
+  document.querySelector('#placeToWelcome').innerText = textText
+  let textTextThis = new SpeechSynthesisUtterance(textText);
+  synth.speak(textTextThis);
+}
+
+document.querySelector('#textTwo').addEventListener('click', runTextTwo)
+function runTextTwo() {
+  let textTextTwo =  `I have selected three different approaches we can take to accomplish our mission. Please select one.`
+  document.querySelector('#placeToWelcome').innerText = textTextTwo
+  let textTextThisTwo = new SpeechSynthesisUtterance(textTextTwo);
+  synth.speak(textTextThisTwo);
+}
+
+document.querySelector('#textThree').addEventListener('click', runTextThree)
+function runTextThree() {
+  let textTextThree =  `Excellent, I will prep the ship with speed boosters and a tractor beam.`
+  document.querySelector('#placeToWelcome').innerText = textTextThree
+  let textTextThisThree = new SpeechSynthesisUtterance(textTextThree);
+  synth.speak(textTextThisThree);
+}
 
  const textElement = document.getElementById('text')
 const optionButtonsElement = document.getElementById('option-buttons')
@@ -74,7 +98,7 @@ const textNodes = [
   },
   {
     id: 3,
-    text: 'I have selected three different approches we can take to accomplish our mission. Please select one.',
+    text: 'I have selected three different approaches we can take to accomplish our mission. Please select one.',
     options: [
       {
         text: 'Speed Chase',
