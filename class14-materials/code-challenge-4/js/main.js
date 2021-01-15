@@ -15,5 +15,5 @@ document.querySelector('#clear').addEventListener('click', erase);
 
 function erase() {
     total = 0
-    document.querySelector('#answer').innerText = total
+    document.querySelector("#answer").innerText = total;
 }
