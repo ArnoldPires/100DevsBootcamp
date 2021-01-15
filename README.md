@@ -16,4 +16,5 @@
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class12-materials">Class 12: Intro to Freelancing</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class13-materials">Class 13: JavaScript Review & Loops</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class14-materials">Class 14: JavaScript Review After Break</a></li>
+   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class15-materials">Class 15: Arrays</a></li>
  </ol>
