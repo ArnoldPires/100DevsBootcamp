@@ -1,19 +1,10 @@
-//Please create a function that takes in two numbers. Print to the console the division of the these two numbers rounded down. 
+//Please create a function that takes in the name of a person. This function should add this person to a names list and let them know their position on the list. The names list should be created outside of the function
 
-document.querySelector('#enter').addEventListener('click', convert);
+document.querySelector('#enter').addEventListener('click', enter);
+let nameList = ["Tim", " Blake", " Nacy", " Thalia"];
 
-function convert() {
-    const num1 = document.querySelector('#numOne').value;
-    const num2 = document.querySelector('#numTwo').value;
-
-    document.querySelector('#answer').innerHTML = num1 / num2;
-    
-    console.log(num1 / num2)
-}
-
-document.querySelector('#clear').addEventListener('click', erase);
-
-function erase() {
-    total = 0
-    document.querySelector("#answer").innerText = total;
+function enter(name) {
+    document.querySelector("#name").innerHTML = nameList;
+    const number = nameList.push(name)
+    console.log(number)
 }

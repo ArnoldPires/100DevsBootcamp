@@ -1,19 +1,10 @@
-//Please create a function that takes in two numbers. Print to the console the division of the these two numbers rounded down. 
+//Please create a function that takes in an array. The function should console.log() the sum of the first value in the array and the last value in the array
 
-document.querySelector('#enter').addEventListener('click', convert);
+document.querySelector('#enter').addEventListener('click', enter)
 
-function convert() {
-    const num1 = document.querySelector('#numOne').value;
-    const num2 = document.querySelector('#numTwo').value;
-
-    document.querySelector('#answer').innerHTML = num1 / num2;
-    
-    console.log(num1 / num2)
-}
-
-document.querySelector('#clear').addEventListener('click', erase);
-
-function erase() {
-    total = 0
-    document.querySelector("#answer").innerText = total;
+function enter() {
+    let array = ["5 ", "4 ", "3 ", "2 ", "1" ];
+        document.querySelector("#otherAnswer").innerHTML = array[0] + array[array.length - 1];
+        document.querySelector("#answer").innerHTML = `${array}`
+        console.log(array[0] + array[array.length - 1])
 }
