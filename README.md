@@ -18,4 +18,6 @@
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class13-materials">Class 13: JavaScript Review & Loops</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class14-materials">Class 14: JavaScript Review After Break</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class15-materials">Class 15: Arrays</a></li>
+   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class16-materials">Class 16: Array Review</a></li>
+   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class17-materials">Class 17: JS Objects</a></li>
  </ol>
