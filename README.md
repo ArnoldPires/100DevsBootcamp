@@ -20,4 +20,5 @@
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class15-materials">Class 15: Arrays</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class16-materials">Class 16: Array Review</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class17-materials">Class 17: JS Objects</a></li>
+   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class18-materials">Class 18: Objects & API's</a></li>
  </ol>
