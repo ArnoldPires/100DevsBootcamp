@@ -15,7 +15,9 @@ img{
   margin: 0 auto;
   width: 25%;
 }
-
+div {
+  text-align: center;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
