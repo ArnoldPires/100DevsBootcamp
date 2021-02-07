@@ -16,11 +16,13 @@
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class11-materials">Class 11: Javascript Review</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class12-materials">Class 12: Intro to Freelancing</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class13-materials">Class 13: JavaScript Review & Loops</a></li>
-   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class14-materials">Class 14: JavaScript Review After Break</a></li>
+   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class14-materials">Class 14: JavaScript Review After Break<a><li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class15-materials">Class 15: Arrays</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class16-materials">Class 16: Array Review</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class17-materials">Class 17: JS Objects</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class18-materials">Class 18: Objects & API's</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class19-materials">Class 19: Learn JS Objects/ Review</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class20-materials">Class 20: API's/ Review</a></li>
+   <li><a href="https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/">Class 21: Microsoft/Intro to GitHub</a></li>
+   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class22-materials">Class 22: More Api Review</a></li>
  </ol>
