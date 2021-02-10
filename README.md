@@ -25,4 +25,5 @@
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class20-materials">Class 20: API's/ Review</a></li>
    <li><a href="https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/">Class 21: Microsoft/Intro to GitHub</a></li>
    <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class22-materials">Class 22: More Api Review</a></li>
+   <li><a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class23-materials">Class 23: More Api's JS</a></li>
  </ol>
