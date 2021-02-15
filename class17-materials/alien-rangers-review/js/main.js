@@ -15,3 +15,8 @@ let onlyEven = array => array.filter(num => num % 2 === 0)
 console.log(onlyEven(numsTwo))
 //Create a function that takes in an array of numbers
 //Alert the sum of the second lowest and the second highest number
+function secLowToHigh(arr) {
+    let sorted = arr.sort((a,b) => a-b)
+    alert(sorted[1] + sorted[sorted.length - 2])
+}
+secLowToHigh([2,3,4,5,1])
