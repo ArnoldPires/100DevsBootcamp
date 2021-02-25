@@ -27,4 +27,5 @@
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class22-materials'>Class 22: More Api Review</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class23-materials'>Class 23: More Api's JS</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class24-materials'>Class 24: Review</a></li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/object-oriented-programming'>Object-oriented Programming</a></li>
  </ol>
