@@ -4,6 +4,7 @@ function subtract(num1, num2) {
     alert(num1 - num2)
 }
 //OR
+subtract(10, 5)
 function subs(n1, n2) {
     let difference = n1 - n2
     alert(difference)
