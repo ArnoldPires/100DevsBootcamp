@@ -1,11 +1,11 @@
-const contestants = document.querySelectorAll(/*INSERTCODE*/)
+document.querySelector('.contestant').addEventListener("click", wrongPick);
 
-Array.from(contestants).forEach(element => element.addEventListener('click', /*INSERTCODE*/))
+function wrongPick() {
+	alert('Wrong!')
+}
 
-function checkForRose(click){
-	if(click.target.classList.contains(/*INSERTCODE*/)){
-		document.querySelector('#nikki').classList.toggle(/*INSERTCODE*/)
-	}else{
-		alert("Wrong!");
-	}
+document.querySelector('.rose').addEventListener('click', rightPick)
+function rightPick() {
+	alert('Right!')
+	document.querySelector("#nikki").style.display = "block";
 }
