@@ -29,7 +29,8 @@
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class25-materials'>Class 25: OOP</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class26-materials'>Class 26: OOP Review</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class30-materials'>Class 30: Node Crash Course</a></li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class30-materials'>Class 31: Event Loops</a></li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class31-materials'>Class 31: Event Loops</a></li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class32-materials'>Class 32: Learning to build your own API</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/object-oriented-programming'>Object-oriented Programming</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/challenges'>Code Challenges</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/super-review'>Super Review</a></li>
