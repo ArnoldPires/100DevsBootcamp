@@ -2,6 +2,9 @@
 100Devs Free Full Stack Web Development Bootcamp (Created by Leon Noel)
 
 <ol>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/object-oriented-programming'>Object-oriented Programming</a></li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/challenges'>Code Challenges</a></li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/super-review'>Super Review</a></li>
   <li><a href='https://www.coursera.org/learn/learning-how-to-learn'>Class 1: Learning how to learn</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class02-materials/bbc-site'>Class 2: Basic HTML for BBC front page site</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class03-materials'>Class 3: Basic CSS</a></li>
@@ -31,7 +34,4 @@
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class30-materials'>Class 30: Node Crash Course</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class31-materials'>Class 31: Event Loops</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class32-materials'>Class 32: Learning to build your own API</a></li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/object-oriented-programming'>Object-oriented Programming</a></li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/challenges'>Code Challenges</a></li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/super-review'>Super Review</a></li>
  </ol>
