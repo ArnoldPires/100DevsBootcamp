@@ -1,12 +1,15 @@
-document.querySelector('button').addEventListener('click', getRapName)
+document.querySelector("button").addEventListener("click", getRapName);
 
 async function getRapName() {
-    try{
-        const res = await fetch('http://localhost:8000/api/savage')
-        const data = await res.json()
-
-        console.log(data)
-    }catch(err) {
-        console.log(err)
-    }
+  const rapName = document.querySelector("input").value;
+  try {
+    const res = await fetch(
+      `http://localhost:8000/api/rappers/${rapName}`
+    );
+    const data = await res.json();
+    console.log(data);
+    document.querySelector("h2").innerText = data.birthName;
+  } catch (err) {
+    console.log(err);
+  }
 }
