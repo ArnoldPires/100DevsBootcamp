@@ -1,21 +1,32 @@
 /******************************************
 /* CSS
 /*******************************************/
-
 /* Box Model Hack */
 *{
   box-sizing: border-box;
 }
-
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+.clear {
+	clear: both;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
-img{
-  display: block;
-  margin: 0 auto;
+header, section {
+  text-align: center;
 }
-
-
+ul li {
+  text-align: center;
+  list-style-type: none;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
