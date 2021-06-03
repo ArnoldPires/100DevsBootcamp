@@ -17,11 +17,28 @@
   <br>
     <a href="https://slides.com/leonnoel/html-the-basics-100devs">HTML- The Basics slides</a>
   </li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class03-materials'>Class 3: Basic CSS</a></li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class04-materials'>Class 4: More CSS</a></li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class05-materials'>Class 5: Reviewing some CSS</a></li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class06-materials'>Class 6: Responsive CSS</a></li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class07-materials'>Class 7: Responsive Layouts</a></li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class03-materials'>Class 3: Basic CSS</a>
+  <br>
+    <a href="https://slides.com/leonnoel/css-animation">Css - Animation slides</a>
+  </li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class04-materials'>Class 4: More CSS</a>
+  <br>
+    <a href="https://slides.com/leonnoel/css-animation">Css - More Basics slides</a>
+  </li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class05-materials'>Class 5: Reviewing some CSS</a>
+  <br>
+    <a href="https://slides.com/leonnoel/css-review-responsive">Css - Review & Responsive slides</a>
+  </li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class06-materials'>Class 6: Responsive CSS</a>
+  <br>
+    <a href="https://slides.com/leonnoel/css-responsive-basics">Css - Responsive Basics slides</a>
+  </li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class07-materials'>Class 7: Responsive Layouts</a>
+  <br>
+    <a href="https://learn.shayhowe.com/html-css/">Learn to Code HTML & CSS</a>
+    <br>
+    <a href="https://learnlayout.com/">Learn CSS Layout</a>
+  </li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class08-materials'>Class 8: More site layouts/ Homework</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class09-materials'>Class 9: Javascript intro</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class10-materials'>Class 10: More Javascript</a></li>
