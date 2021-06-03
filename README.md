@@ -5,7 +5,11 @@
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/object-oriented-programming'>Object-oriented Programming</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/challenges'>Code Challenges</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/super-review'>Super Review</a></li>
-  <li><a href='https://www.coursera.org/learn/learning-how-to-learn'>Class 1: Learning how to learn</a></li>
+  <li><a href='https://www.coursera.org/learn/learning-how-to-learn'>Class 1: Learning how to learn</a>
+    <a href="https://www.youtube.com/watch?v=ukLnPbIffxE&ab_channel=AliAbdaal">How to study for exams - Evidence-based revision tips</a>
+    <a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM&ab_channel=AliAbdaal">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a>
+    <a href="https://apps.ankiweb.net/">Download Anki flash card app</a>
+  </li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class02-materials/bbc-site'>Class 2: Basic HTML for BBC front page site</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class03-materials'>Class 3: Basic CSS</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class04-materials'>Class 4: More CSS</a></li>
