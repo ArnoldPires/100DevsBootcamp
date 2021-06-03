@@ -13,7 +13,10 @@
     <br>
     <a href="https://apps.ankiweb.net/">Download Anki flash card app</a>
   </li>
-  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class02-materials/bbc-site'>Class 2: Basic HTML for BBC front page site</a></li>
+  <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class02-materials/bbc-site'>Class 2: Basic HTML</a>
+  <br>
+    <a href="https://slides.com/leonnoel/html-the-basics-100devs">HTML- The Basics slides</a>
+  </li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class03-materials'>Class 3: Basic CSS</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class04-materials'>Class 4: More CSS</a></li>
   <li><a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class05-materials'>Class 5: Reviewing some CSS</a></li>
