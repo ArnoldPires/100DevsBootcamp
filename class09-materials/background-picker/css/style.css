@@ -13,23 +13,33 @@
 h1, h2{
   text-align: center;
 }
+h3 {
+  padding: 2rem;
+}
 img{
   display: block;
-  height: 300px;
+  height: 15rem;
+  margin: 0 auto;
+}
+section {
+  width: 50rem;
+  max-width: 100%;
   margin: 0 auto;
 }
 ul{
   width: 100%;
   list-style: none;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  flex-wrap: wrap;
   padding: 0;
 }
 li{
-  width: inherit;
-  height: 130px;
+  width: 15rem;
+  height: 14vh;
+  border: 5px solid black;
 }
-button {
+a {
   height: inherit;
   width: inherit;
 }
@@ -55,4 +65,7 @@ button {
   background: url(https://media.comicbook.com/2020/07/berserk-manga-guts-berserker-armor-1230243.jpeg?auto=webp&width=1204&height=628&crop=1204:628,smart);
   background-size: cover;
   background-position: right;
+}
+#white {
+  background: rgb(255,255,255);
 }

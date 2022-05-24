@@ -10,17 +10,16 @@
 /******************************************
 /* LAYOUT
 /*******************************************/
-h1, h2{
+h1, h2, form{
   text-align: center;
 }
-img{
+button{
   display: block;
-  height: 300px;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 ul{
   width: 100px;
-  height: 348px;
+  height: 200px;
   border: 3px solid black;
   margin: 0 auto;
   list-style: none;
@@ -32,7 +31,11 @@ li{
   height: 49px;
   border: 1px solid black;
 }
-
+h2{
+  font-size: 100px;
+  color: red;
+  font-weight: bold;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/

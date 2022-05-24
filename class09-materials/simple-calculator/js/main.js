@@ -6,6 +6,7 @@ document.querySelector('#zebra').addEventListener('click', add9)
 document.querySelector('#cantThinkOfAnything').addEventListener('click', sub2)
 document.querySelector('#dominosPizzaSucks').addEventListener('click', pizza)
 document.querySelector('#UphamsPizzaIsTheBest').addEventListener('click', burger)
+document.querySelector('#fasting').addEventListener('click', intermittentFasting)
 
 function makeZero() {
   total = 0
@@ -29,5 +30,9 @@ function pizza() {
 }
 function burger() {
   total = total - 10
+  document.querySelector('#placeToPutResult').innerHTML = total
+}
+function intermittentFasting() {
+  total = total - 1000
   document.querySelector('#placeToPutResult').innerHTML = total
 }
