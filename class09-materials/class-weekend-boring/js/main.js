@@ -14,8 +14,8 @@ function fri() {
   document.getElementById("placeToSee").innerHTML = "Boring day!"
 }
 function sat() {
-  document.getElementById("placeToSee").innerHTML = "Office Hours!"
+  document.getElementById("placeToSee").innerHTML = "Boring day!"
 }
 function sun() {
-  document.getElementById("placeToSee").innerHTML = "Boring day!"
+  document.getElementById("placeToSee").innerHTML = "Office Hours!"
 }
