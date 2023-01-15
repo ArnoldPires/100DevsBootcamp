@@ -56,6 +56,23 @@
     <br>
     Build: HTML for Khan Academy and Tech Crunch (What is in the attachted image)
   </li>
+  <br>
+  <li>Class 4:
+    <br>
+    <a href="https://slides.com/leonnoel/100devs2-css-the-basics/">CSS - The Basics</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class04-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=Q1Obtn29twk&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 04) - 100Devs</a>
+    <br>
+    Homework:
+    <br>
+    Do: <a href="https://www.typingtest.com/"> Typing test (Five Minute Test)</a>
+    <br>
+    Do: <a href="https://www.keybr.com/"> Practice Typing</a>
+    <br>
+    Build: Simple site lab (What is in the attachted image)
+  </li>
 </ol>
 
 
