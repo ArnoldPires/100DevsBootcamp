@@ -10,6 +10,8 @@
     <br>
     Poem motivation - <a href="https://www.poetryfoundation.org/poems/51642/invictus">Invictus</a>
     <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=o3IIobN4xR0&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 01) - 100Devs</a>
+    <br>
     Homework:
     <br>
     Watch: <a href="https://www.youtube.com/watch?v=ukLnPbIffxE&ab_channel=AliAbdaal">How to study for exams - Evidence-based revision tips</a>
@@ -18,6 +20,7 @@
     <br>
     <a href="https://www.coursera.org/learn/learning-how-to-learn">Complete learning how to learn course (Do not pay)</a>
   </li>
+  <br>
   <li>Class 2:
     <br>
     <a href="https://slides.com/leonnoel/100devs2-html-more-basics">HTML - More Basics</a>
@@ -26,6 +29,8 @@
     <br>
     Poem motivation - <a href="https://allpoetry.com/Desiderata---Words-for-Life">Words for Life</a>
     <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=eCRbEILXXmE&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 02) - 100Devs</a>
+    <br>
     Homework:
     <br>
     Read: <a href="https://learn.shayhowe.com/html-css/"> Learn to code HTML & CSS</a>
@@ -33,6 +38,23 @@
     Build: HTML for BBC Website (What is in the attachted image
     <br>
     Use: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN web docs</a>
+  </li>
+  <br>
+  <li>Class 3:
+    <br>
+    <a href="https://slides.com/leonnoel/100devs2-html-even-more-basics">HTML - Even More Basics</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class03-Materials-2022">Class materials</a>
+    <br>
+    Poem motivation - <a href="https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest">Have You Earned Your Tomorrow</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=rdWM6kUImjE&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 03) - 100Devs</a>
+    <br>
+    Homework:
+    <br>
+    Read: <a href="https://learnlayout.com/"> Learn CSS Layout</a>
+    <br>
+    Build: HTML for Khan Academy and Tech Crunch (What is in the attachted image)
   </li>
 </ol>
 
