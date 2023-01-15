@@ -8,13 +8,13 @@
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class01-Materials-2022">Class materials</a>
     <br>
-    <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poem motivation - Invictus</a>
+    Poem motivation - <a href="https://www.poetryfoundation.org/poems/51642/invictus">Invictus</a>
     <br>
     Homework:
     <br>
-    <a href="https://www.youtube.com/watch?v=ukLnPbIffxE&ab_channel=AliAbdaal">Watch: How to study for exams - Evidence-based revision tips</a>
+    Watch: <a href="https://www.youtube.com/watch?v=ukLnPbIffxE&ab_channel=AliAbdaal">How to study for exams - Evidence-based revision tips</a>
     <br>
-    <a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM&ab_channel=AliAbdaal">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a>
+    Watch: <a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM&ab_channel=AliAbdaal">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a>
     <br>
     <a href="https://www.coursera.org/learn/learning-how-to-learn">Complete learning how to learn course (Do not pay)</a>
   </li>
@@ -24,7 +24,7 @@
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class02-Materials-2022">Class materials</a>
     <br>
-    <a href="https://allpoetry.com/Desiderata---Words-for-Life">Poem motivation - Words for Life</a>
+    Poem motivation - <a href="https://allpoetry.com/Desiderata---Words-for-Life">Words for Life</a>
     <br>
     Homework:
     <br>
