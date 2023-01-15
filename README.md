@@ -4,11 +4,11 @@
 <ol>
   <li>Class 1:
     <br>
-    <a href="https://slides.com/leonnoel/100devs2-html-the-basics">html the basics Slides</a>
+    <a href="https://slides.com/leonnoel/100devs2-html-the-basics">html the basics</a>
     <br>
-    <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poem motivation</a>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class01-Materials-2022">Class materials</a>
     <br>
-    <a href="">Class materials</a>
+    <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poem motivation - Invictus</a>
     <br>
     Homework:
     <br>
@@ -17,6 +17,22 @@
     <a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM&ab_channel=AliAbdaal">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a>
     <br>
     <a href="https://www.coursera.org/learn/learning-how-to-learn">Complete learning how to learn course (Do not pay)</a>
+  </li>
+  <li>Class 2:
+    <br>
+    <a href="https://slides.com/leonnoel/100devs2-html-more-basics">HTML - More Basics</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class02-Materials-2022">Class materials</a>
+    <br>
+    <a href="https://allpoetry.com/Desiderata---Words-for-Life">Poem motivation - Words for Life</a>
+    <br>
+    Homework:
+    <br>
+    Read: <a href="https://learn.shayhowe.com/html-css/"> Learn to code HTML & CSS</a>
+    <br>
+    Build: HTML for BBC Website (What is in the attachted image
+    <br>
+    Use: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN web docs</a>
   </li>
 </ol>
 
