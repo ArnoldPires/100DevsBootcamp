@@ -88,6 +88,7 @@
     <br>
     Build: Re-create the three layouts (last few slides)
   </li>
+  <br>
   <li><strong>Class 6:</strong>
     <br>
     <a href="https://slides.com/leonnoel/100devs2-review-and-responsive">CSS - Review & Responsive</a>
