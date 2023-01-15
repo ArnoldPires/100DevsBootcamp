@@ -73,8 +73,22 @@
     <br>
     Build: Simple site lab (What is in the attachted image)
   </li>
+  <br>
+  <li>Class 5:
+    <br>
+    <a href="https://slides.com/leonnoel/100devs2-css-more-basics">CSS - More Basics</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class05-Materials-2022">Class materials</a>
+    <br>
+    Video motivation - <a href="https://www.youtube.com/watch?v=3sK3wJAxGfs&ab_channel=Goalcast">Navy Seal William McRaven: If You Want To Change The World, Make Your Bed!</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=E6Z8cWU_fjI&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 05) - 100Devs</a>
+    <br>
+    Homework:
+    <br>
+    Build: Complete the three layouts (last few slides)
+  </li>
 </ol>
-
 
 <!--
 <ul>
