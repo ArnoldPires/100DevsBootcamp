@@ -1,5 +1,27 @@
 # 100DevsBootcamp
-100Devs Free Full Stack Web Development Bootcamp (Created by Leon Noel)
+100Devs Free Full Stack Web Development Bootcamp 2022 (Created by Leon Noel)
+
+<ol>
+  <li>Class 1:
+    <br>
+    <a href="https://slides.com/leonnoel/100devs2-html-the-basics">html the basics Slides</a>
+    <br>
+    <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poem motivation</a>
+    <br>
+    <a href="">Class materials</a>
+    <br>
+    Homework:
+    <br>
+    <a href="https://www.youtube.com/watch?v=ukLnPbIffxE&ab_channel=AliAbdaal">Watch: How to study for exams - Evidence-based revision tips</a>
+    <br>
+    <a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM&ab_channel=AliAbdaal">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a>
+    <br>
+    <a href="https://www.coursera.org/learn/learning-how-to-learn">Complete learning how to learn course (Do not pay)</a>
+  </li>
+</ol>
+
+
+<!--
 <ul>
   <li>
     <a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/challenges'>Code Challenges</a>
@@ -25,7 +47,7 @@
     <a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class02-materials/bbc-site'>Class 2: Basic HTML</a>
   <br>
     <a href="https://slides.com/leonnoel/html-the-basics-100devs">HTML- The Basics slides</a>
-  <br>1
+  <br>
     <a href="https://learn.shayhowe.com/html-css/">Read Shay Howe: Learn to Code (all 12)</a>
   <br>
     <a href="https://learn.shayhowe.com/html-css/">Learn to Code HTML & CSS</a>
@@ -126,3 +148,4 @@
     <a href='https://github.com/ArnoldPires/100DevsBootcamp/tree/main/class32-materials'>Class 32: Learning to build your own API</a>
   </li>
  </ol>
+-->
