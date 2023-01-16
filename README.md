@@ -140,6 +140,22 @@
     <br>
     Play: <a href="https://mastery.games/flexboxzombies/">Flexbox Zombies learning game</a>
   </li>
+  <li><h3>Class 12:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-javascript-basics">Javascript - The Basics</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class12-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=_A20kVsaqIk&t=0s">Learn JavaScript in 2022! Free Software Engineering Bootcamp! (class 12) - #100Devs</a>
+    <br>
+    <h4>Homework:</h4>
+    Do: Plan out your networking!
+    <br>
+    Read: <a href="https://javascript.info/variables">Variables + Tasks</a>
+    <br>
+    Read: <a href="https://javascript.info/function-basics">Functions + Tasks</a>
+    <br>
+    Do: Delete the JS and do it again for all assignments
+  </li>
 </ol>
 
 <!--
