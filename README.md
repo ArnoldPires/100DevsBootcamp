@@ -210,9 +210,13 @@
     Poem motivation - <a href="https://allpoetry.com/poem/8624439-Thinking-by-Walter-D-Wintle">Thinking</a>
     <h4>Homework:</h4>
     Read: <a href="https://github.com/thejsway/thejsway">3,2,1...Code! through Write Functions</a>
+    <br>
     Read: <a href="https://eloquentjavascript.net/">Chapters 1 - 3</a>
+    <br>
     Do: <a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy - Learn Javascript 1-6 (Do not pay)</a>
+    <br>
     Watch: <a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc">Git & GitHub Crash Course For Beginners</a>
+    <br>
     Read: <a href="https://jwiegley.github.io/git-from-the-bottom-up/">Git from the Bottom Up</a>
   </li>
 </ol>
