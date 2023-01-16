@@ -10,7 +10,6 @@
     Poem motivation - <a href="https://www.poetryfoundation.org/poems/51642/invictus">Invictus</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=o3IIobN4xR0&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 01) - 100Devs</a>
-    <br>
     <h4>Homework:</h4>
     Watch: <a href="https://www.youtube.com/watch?v=ukLnPbIffxE&ab_channel=AliAbdaal">How to study for exams - Evidence-based revision tips</a>
     <br>
@@ -26,7 +25,6 @@
     Poem motivation - <a href="https://allpoetry.com/Desiderata---Words-for-Life">Words for Life</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=eCRbEILXXmE&ab_channel=LeonNoel">Learn HTML! Free Software Engineering Bootcamp (Class 02) - 100Devs</a>
-    <br>
     <h4>Homework:</h4>
     Read: <a href="https://learn.shayhowe.com/html-css/"> Learn to code HTML & CSS</a>
     <br>
@@ -42,7 +40,6 @@
     Poem motivation - <a href="https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest">Have You Earned Your Tomorrow</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=rdWM6kUImjE&ab_channel=LeonNoel">Learn More HTML! Free Software Engineering Bootcamp (Class 03) - #100Devs</a>
-    <br>
     <h4>Homework:</h4>
     Read: <a href="https://learnlayout.com/"> Learn CSS Layout</a>
     <br>
@@ -54,7 +51,6 @@
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class04-Materials-2022">Class materials</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=Q1Obtn29twk&ab_channel=LeonNoel">Learn CSS in 2022! Free Software Engineering Bootcamp! (class 04) - #100Devs</a>
-    <br>
     <h4>Homework:</h4>
     Do: <a href="https://www.typingtest.com/"> Typing test (Five Minute Test)</a>
     <br>
@@ -70,7 +66,6 @@
     Video motivation - <a href="https://www.youtube.com/watch?v=3sK3wJAxGfs&ab_channel=Goalcast">Navy Seal William McRaven: If You Want To Change The World, Make Your Bed!</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=E6Z8cWU_fjI&ab_channel=LeonNoel">Learn CSS Layout in 2022! Free Software Engineering Bootcamp! (class 05) - #100Devs</a>
-    <br>
     <h4>Homework:</h4>
     Build: Re-create the three layouts (last few slides)
   </li>
@@ -90,7 +85,6 @@
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class07-Materials-2022">Class materials</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=k8r3B0JGMt4">Learn Responsive CSS in 2022! Free Software Engineering Bootcamp! (class 07) - #100Devs</a>
-    <br>
     <h4>Homework:</h4>
     Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a>
     <br>
@@ -106,7 +100,6 @@
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class08-Materials-2022">Class materials</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=PWVRSXQxsXc">Write Bad CSS in 2022! Free Software Engineering Bootcamp! (class 08) - #100Devs</a>
-    <br>
     <h4>Homework:</h4>
     Do: The 3 layouts that were presented in class
     <br>
@@ -132,7 +125,6 @@
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class11-Materials-2022">Class materials</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=qEj0pXGVwjY">Learn CSS Layout & Flexbox in 2022! Free Software Engineering Bootcamp! (class 11) - #100Devs</a>
-    <br>
     <h4>Homework:</h4>
     Read: <a href="https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/">CSS Flexbox tutorial with Flexbox Properties Cheat Sheet</a>
     <br>
@@ -146,13 +138,29 @@
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class12-Materials-2022">Class materials</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=_A20kVsaqIk&t=0s">Learn JavaScript in 2022! Free Software Engineering Bootcamp! (class 12) - #100Devs</a>
-    <br>
     <h4>Homework:</h4>
     Do: Plan out your networking!
     <br>
     Read: <a href="https://javascript.info/variables">Variables + Tasks</a>
     <br>
     Read: <a href="https://javascript.info/function-basics">Functions + Tasks</a>
+    <br>
+    Do: Delete the JS and do it again for all assignments
+  </li>
+  <li><h3>Class 13:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-javascript-more-basics">Javascript - More Basics</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class13-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=pS6ykGL-fRE">Fun JavaScript Examples! Free Software Engineering Bootcamp! (class 13) - #100Devs</a>
+    <br>
+    Video motivation - <a href="https://www.youtube.com/watch?v=dV9worye5g0">Eric Thomas | What will You do with It? (Eric Thomas Motivation)</a>
+    <h4>Homework:</h4>
+    Read: <a href="https://javascript.info/function-expressions">Function Expressions + Tasks</a>
+    <br>
+    Read: <a href="https://javascript.info/arrow-functions-basics">Arrow functions, the basics</a>
+    <br>
+    Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md">TheJsWay</a>
     <br>
     Do: Delete the JS and do it again for all assignments
   </li>
