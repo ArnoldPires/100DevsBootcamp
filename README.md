@@ -126,6 +126,20 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=WftjV2L7oyk">Rant & Review! Free Software Engineering Bootcamp! (class 10) - #100Devs</a>
   </li>
+   <li><h3>Class 11:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-css-review-flexbox">CSS - Practice & Flexbox</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class11-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=qEj0pXGVwjY">Learn CSS Layout & Flexbox in 2022! Free Software Engineering Bootcamp! (class 11) - #100Devs</a>
+    <br>
+    <h4>Homework:</h4>
+    Read: <a href="https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/">CSS Flexbox tutorial with Flexbox Properties Cheat Sheet</a>
+    <br>
+    Watch: <a href="https://www.youtube.com/watch?v=JJSoEo8JSnc">Flexbox CSS In 20 Minutes</a>
+    <br>
+    Play: <a href="https://mastery.games/flexboxzombies/">Flexbox Zombies learning game</a>
+  </li>
 </ol>
 
 <!--

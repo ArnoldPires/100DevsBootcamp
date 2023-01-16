@@ -1,0 +1,47 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+/* Please make the someText 12px, moreText 16px, and lastText 27px */
+
+
+/* Please double the font-size of someText, moreText, and lastText (still using px) */
+
+
+/* Please set a base font-size on heyo, and make someText 12px, moreText 16px, and lastText 27px BUT use ems instead of px */
+
+
+/* Please double the size of someText, moreText, and lastText using ems, but only make one change */
+
+
+/* Please wrap lastText in a new section with the class of utOh and give it a base font size of 40px */
+
+
+/* Please fix your doubling of lastText, buy converting to rems */
