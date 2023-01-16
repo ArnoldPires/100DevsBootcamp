@@ -125,9 +125,6 @@
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class10-Materials-2022">Class materials</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=WftjV2L7oyk">Rant & Review! Free Software Engineering Bootcamp! (class 10) - #100Devs</a>
-    <br>
-    <h4>Homework:</h4>
-
   </li>
 </ol>
 
