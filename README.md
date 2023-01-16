@@ -114,6 +114,11 @@
     <br>
     Do: Pushwork Homepage and add media queries to other layouts
   </li>
+  <li><h3>Class 9:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-networking-night">Networking Night</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=OaglXfjsBaE">Networking Night! Free Software Engineering Bootcamp! (class 09) - #100Devs</a>
+  </li>
 </ol>
 
 <!--
