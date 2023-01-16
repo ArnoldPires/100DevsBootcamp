@@ -187,6 +187,19 @@
     <br>
     then do it again but change something
   </li>
+  <li><h3>Class 15:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-intro-to-freelancing">Intro to freelancing</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class15-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=68Li7ukgDKg">How To Start Freelancing in 2022! Free Software Engineering Bootcamp! (class 15) - #100Devs</a>
+    <br>
+    Video motivation - <a href="https://www.youtube.com/watch?v=jVkLVRt6c1U">Mike Monteiro: F*ck You, Pay Me</a>
+    <h4>Homework:</h4>
+    Do: Setup your portfolio
+    <br>
+    Do: Draft your proposal/contract
+  </li>
 </ol>
 
 <!--
