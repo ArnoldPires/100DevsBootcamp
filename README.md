@@ -3,7 +3,6 @@
 
 <ol>
   <li><h3>Class 1:</h3>
-    <br>
     <a href="https://slides.com/leonnoel/100devs2-html-the-basics">html the basics</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class01-Materials-2022">Class materials</a>
@@ -12,8 +11,7 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=o3IIobN4xR0&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 01) - 100Devs</a>
     <br>
-    <h3>Homework:</h3>
-    <br>
+    <h4>Homework:</h4>
     Watch: <a href="https://www.youtube.com/watch?v=ukLnPbIffxE&ab_channel=AliAbdaal">How to study for exams - Evidence-based revision tips</a>
     <br>
     Watch: <a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM&ab_channel=AliAbdaal">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a>
@@ -22,7 +20,6 @@
   </li>
   <br>
   <li><h3>Class 2:</h3>
-    <br>
     <a href="https://slides.com/leonnoel/100devs2-html-more-basics">HTML - More Basics</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class02-Materials-2022">Class materials</a>
@@ -31,8 +28,7 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=eCRbEILXXmE&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 02) - 100Devs</a>
     <br>
-    <h3>Homework:</h3>
-    <br>
+    <h4>Homework:</h4>
     Read: <a href="https://learn.shayhowe.com/html-css/"> Learn to code HTML & CSS</a>
     <br>
     Build: HTML for BBC Website (What is in the attachted image
@@ -41,7 +37,6 @@
   </li>
   <br>
   <li><h3>Class 3:</h3>
-    <br>
     <a href="https://slides.com/leonnoel/100devs2-html-even-more-basics">HTML - Even More Basics</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class03-Materials-2022">Class materials</a>
@@ -50,23 +45,20 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=rdWM6kUImjE&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 03) - 100Devs</a>
     <br>
-    <h3>Homework:</h3>
-    <br>
+    <h4>Homework:</h4>
     Read: <a href="https://learnlayout.com/"> Learn CSS Layout</a>
     <br>
     Build: HTML for Khan Academy and Tech Crunch (What is in the attachted image)
   </li>
   <br>
   <li><h3>Class 4:</h3>
-    <br>
     <a href="https://slides.com/leonnoel/100devs2-css-the-basics/">CSS - The Basics</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class04-Materials-2022">Class materials</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=Q1Obtn29twk&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 04) - 100Devs</a>
     <br>
-    <h3>Homework:</h3>
-    <br>
+    <h4>Homework:</h4>
     Do: <a href="https://www.typingtest.com/"> Typing test (Five Minute Test)</a>
     <br>
     Do: <a href="https://www.keybr.com/"> Practice Typing</a>
@@ -75,7 +67,6 @@
   </li>
   <br>
   <li><h3>Class 5:</h3>
-    <br>
     <a href="https://slides.com/leonnoel/100devs2-css-more-basics">CSS - More Basics</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class05-Materials-2022">Class materials</a>
@@ -84,12 +75,10 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=E6Z8cWU_fjI&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 05) - 100Devs</a>
     <br>
-    <h3>Homework:</h3>
-    <br>
+    <h4>Homework:</h4>
     Build: Re-create the three layouts (last few slides)
   </li>
   <li><h3>Class 6:</h3>
-    <br>
     <a href="https://slides.com/leonnoel/100devs2-review-and-responsive">CSS - Review & Responsive</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class06-Materials-2022">Class materials</a>
@@ -100,15 +89,13 @@
     <br>
   </li>
   <li><h3>Class 7:</h3>
-    <br>
     <a href="https://slides.com/leonnoel/100devs2-css-responsive-basics">CSS - Responsive Basics</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class07-Materials-2022">Class materials</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=k8r3B0JGMt4">Become A Software Engineer For Free 2022 (Class 07) - 100Devs</a>
     <br>
-    <h3>Homework:</h3>
-    <br>
+    <h4>Homework:</h4>
     Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a>
     <br>
     Do: <a href="https://flexboxfroggy.com/">FlexBox Froggy</a>
