@@ -174,11 +174,17 @@
     Poem motivation - <a href="http://poemsspeak.blogspot.com/2016/12/poetry-speaks.html">Don't Quit</a>
     <h4>Homework:</h4>
     Comment out your JS
+    <br>
     Type it all out again without looking
+    <br>
     Peak if you have too
+    <br>
     Repeat until you do not have to peak
+    <br>
     delete your JS entirely
+    <br>
     and do it again
+    <br>
     then do it again but change something
   </li>
 </ol>
