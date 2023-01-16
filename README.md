@@ -2,7 +2,7 @@
 100Devs Free Full Stack Web Development Bootcamp 2022 (Created by Leon Noel)
 
 <ol>
-  <li><strong>Class 1:</strong>
+  <li><h3>Class 1:</h3>
     <br>
     <a href="https://slides.com/leonnoel/100devs2-html-the-basics">html the basics</a>
     <br>
@@ -12,7 +12,7 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=o3IIobN4xR0&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 01) - 100Devs</a>
     <br>
-    <strong>Homework:</strong>
+    <h3>Homework:</h3>
     <br>
     Watch: <a href="https://www.youtube.com/watch?v=ukLnPbIffxE&ab_channel=AliAbdaal">How to study for exams - Evidence-based revision tips</a>
     <br>
@@ -21,7 +21,7 @@
     <a href="https://www.coursera.org/learn/learning-how-to-learn">Complete learning how to learn course (Do not pay)</a>
   </li>
   <br>
-  <li><strong>Class 2:</strong>
+  <li><h3>Class 2:</h3>
     <br>
     <a href="https://slides.com/leonnoel/100devs2-html-more-basics">HTML - More Basics</a>
     <br>
@@ -31,7 +31,7 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=eCRbEILXXmE&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 02) - 100Devs</a>
     <br>
-    <strong>Homework:</strong>
+    <h3>Homework:</h3>
     <br>
     Read: <a href="https://learn.shayhowe.com/html-css/"> Learn to code HTML & CSS</a>
     <br>
@@ -40,7 +40,7 @@
     Use: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN web docs</a>
   </li>
   <br>
-  <li><strong>Class 3:</strong>
+  <li><h3>Class 3:</h3>
     <br>
     <a href="https://slides.com/leonnoel/100devs2-html-even-more-basics">HTML - Even More Basics</a>
     <br>
@@ -50,14 +50,14 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=rdWM6kUImjE&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 03) - 100Devs</a>
     <br>
-    <strong>Homework:</strong>
+    <h3>Homework:</h3>
     <br>
     Read: <a href="https://learnlayout.com/"> Learn CSS Layout</a>
     <br>
     Build: HTML for Khan Academy and Tech Crunch (What is in the attachted image)
   </li>
   <br>
-  <li><strong>Class 4:</strong>
+  <li><h3>Class 4:</h3>
     <br>
     <a href="https://slides.com/leonnoel/100devs2-css-the-basics/">CSS - The Basics</a>
     <br>
@@ -65,7 +65,7 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=Q1Obtn29twk&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 04) - 100Devs</a>
     <br>
-    <strong>Homework:</strong>
+    <h3>Homework:</h3>
     <br>
     Do: <a href="https://www.typingtest.com/"> Typing test (Five Minute Test)</a>
     <br>
@@ -74,7 +74,7 @@
     Build: Simple site lab (What is in the attachted image)
   </li>
   <br>
-  <li><strong>Class 5:</strong>
+  <li><h3>Class 5:</h3>
     <br>
     <a href="https://slides.com/leonnoel/100devs2-css-more-basics">CSS - More Basics</a>
     <br>
@@ -84,12 +84,11 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=E6Z8cWU_fjI&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 05) - 100Devs</a>
     <br>
-    <strong>Homework:</strong>
+    <h3>Homework:</h3>
     <br>
     Build: Re-create the three layouts (last few slides)
   </li>
-  <br>
-  <li><strong>Class 6:</strong>
+  <li><h3>Class 6:</h3>
     <br>
     <a href="https://slides.com/leonnoel/100devs2-review-and-responsive">CSS - Review & Responsive</a>
     <br>
@@ -99,6 +98,24 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=L55ax0blZY0&ab_channel=LeonNoel">Become A Software Engineer For Free 2022 (Class 06) - 100Devs</a>
     <br>
+  </li>
+  <li><h3>Class 7:</h3>
+    <br>
+    <a href="https://slides.com/leonnoel/100devs2-css-responsive-basics">CSS - Responsive Basics</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class07-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=k8r3B0JGMt4">Become A Software Engineer For Free 2022 (Class 07) - 100Devs</a>
+    <br>
+    <h3>Homework:</h3>
+    <br>
+    Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a>
+    <br>
+    Do: <a href="https://flexboxfroggy.com/">FlexBox Froggy</a>
+    <br>
+    Watch the movie: <a href="https://www.youtube.com/watch?v=B1E7h3SeMDk">Independence Day</a>
+    <br>
+    Do: Layout Assignment
   </li>
 </ol>
 
