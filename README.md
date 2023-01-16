@@ -164,6 +164,23 @@
     <br>
     Do: Delete the JS and do it again for all assignments
   </li>
+  <li><h3>Class 14:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-javascript-more-basics-again">Javascript - More Basics AGAIN</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class14-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=cBWUvTZPeKw">JavaScript Functions For Beginners! Free Software Engineering Bootcamp! (class 14) - #100Devs</a>
+    <br>
+    Poem motivation - <a href="http://poemsspeak.blogspot.com/2016/12/poetry-speaks.html">Don't Quit</a>
+    <h4>Homework:</h4>
+    Comment out your JS
+    Type it all out again without looking
+    Peak if you have too
+    Repeat until you do not have to peak
+    delete your JS entirely
+    and do it again
+    then do it again but change something
+  </li>
 </ol>
 
 <!--
