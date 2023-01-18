@@ -257,6 +257,15 @@
     <br>
     Do: <a href="https://javascript30.com/">Day 04 Array Cardio</a>
   </li>
+  <li><h3>Class 20:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-array-review-javascript-objects">Javascript - Arrays & Objects</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class20-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=cL0qP6kM_1U&ab_channel=LeonNoel">Practice JavaScript Arrays! Free Software Engineering Bootcamp! (class 20) - #100Devs</a>
+    <br>
+    Poem motivation - <a href="https://poets.org/poem/dreams">Dreams</a>
+  </li>
 </ol>
 
 <!--
