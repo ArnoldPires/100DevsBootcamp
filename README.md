@@ -229,6 +229,13 @@
     <br>
     Do: Draft of your proposal/ contract
   </li>
+  <li><h3>Super Review:</h3>
+    Slides: <a href="https://slides.com/leonnoel/html-css-js-review-100devs2">HTML, CSS, JS - Review</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/SuperReview-2022">Super Review</a>
+    <br>
+    Super Review Video Stream: <a href="https://www.youtube.com/watch?v=AkXLGS57MS4&ab_channel=LeonNoel">Frontend Crash Course in 2022! Free Software Engineering Bootcamp! (SUPER REVIEW) - #100Devs</a>
+  </li>
 </ol>
 
 <!--
