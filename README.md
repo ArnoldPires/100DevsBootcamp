@@ -273,15 +273,39 @@
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class21-Materials-2022">Class materials</a>
     <br>
-    Class Video Stream: <a href=""></a>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=75TQEQ6wxAE&ab_channel=LeonNoel">Learn JavaScript Objects! Free Software Engineering Bootcamp! (class 21) - #100Devs</a>
     <br>
     Poem motivation - <a href="http://mwkworks.com/desiderata.html">Desiderata</a>
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
     <br>
+    Read: <a href="https://javascript.info/array-methods">Array methods</a>
+    <br>
     Read/Do: <a href="https://javascript.info/object">Javascript - Objects</a>
     <br>
     Do: <a href="https://javascript30.com/">Day 04 Array Cardio (Do it again)</a>
+  </li>
+  <li><h3>Class 22:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-more-javascript-objects"> More Javascript - Objects</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class22-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=LTda62-jyoM&ab_channel=LeonNoel">Practice JavaScript Objects! Free Software Engineering Bootcamp! (class 22) - #100Devs</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Watch/ Do: <a href="https://www.youtube.com/watch?v=PFmuCDHHpwk&ab_channel=ProgrammingwithMosh">Object-oriented Programming in JavaScript: Made Super Simple | Mosh</a>
+    <br>
+    Watch: <a href="https://www.youtube.com/watch?v=0fKg7e37bQE&ab_channel=LearnCode.academy">Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics</a>
+    <br>
+    Do: <a href="https://www.microsoft.com/en-us/dev-community/Event/Register?eventId=LearnwithLeonstream_ggNxpTZxIzb_&ocid=aid3038567">Intro to GitHub Microsoft</a>
+    <br>
+    Read/ Do: <a href="https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219">Pillars of OOP</a>
+    <br>
+    Read/ Do: <a href="https://javascript.info/">Whole Chapter - Objects: the basics</a>
+    <br>
+    Complete and Submit this project: <a href="https://github.com/leonnoel/100devs-calculator"> Calculator Project00</a>
+  </li>
 </ol>
 
 <!--
