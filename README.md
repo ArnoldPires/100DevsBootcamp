@@ -236,6 +236,27 @@
     <br>
     Super Review Video Stream: <a href="https://www.youtube.com/watch?v=AkXLGS57MS4&ab_channel=LeonNoel">Frontend Crash Course in 2022! Free Software Engineering Bootcamp! (SUPER REVIEW) - #100Devs</a>
   </li>
+  <li><h3>Class 19:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-javascript-arrays">Javascript - Arrays</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class19-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=YUQUGtUbwMY&ab_channel=LeonNoel">Learn JavaScript Arrays! Free Software Engineering Bootcamp! (class 19) - #100Devs</a>
+    <br>
+    Poem motivation - <a href="http://mwkworks.com/desiderata.html">Desiderata</a>
+    <h4>Homework:</h4>
+    Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md">TheJSway Arrays</a>
+    <br>
+    Read: <a href="https://javascript.info/array-methods">Array methods</a>
+    <br>
+    Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md">TheJSway Objects</a>
+    <br>
+    Read: <a href="https://eloquentjavascript.net/04_data.html">Data Structures: Objects and Arrays</a>
+    <br>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Do: <a href="https://javascript30.com/">Day 04 Array Cardio</a>
+  </li>
 </ol>
 
 <!--
