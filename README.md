@@ -265,7 +265,27 @@
     Class Video Stream: <a href="https://www.youtube.com/watch?v=cL0qP6kM_1U&ab_channel=LeonNoel">Practice JavaScript Arrays! Free Software Engineering Bootcamp! (class 20) - #100Devs</a>
     <br>
     Poem motivation - <a href="https://poets.org/poem/dreams">Dreams</a>
+    <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
   </li>
+  <li><h3>Class 21:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-javascript-objects">Javascript - Objects</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class21-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href=""></a>
+    <br>
+    Poem motivation - <a href="http://mwkworks.com/desiderata.html">Desiderata</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Read: <a href="https://javascript.info/array-methods">Array methods</a>
+    <br>
+    Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md">TheJSway Objects</a>
+    <br>
+    Read/Do: <a href="https://javascript.info/object">Javascript - Objects</a>
+    <br>
+    Do: <a href="https://javascript30.com/">Day 04 Array Cardio (Do it again)</a>
 </ol>
 
 <!--
