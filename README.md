@@ -219,6 +219,9 @@
     <br>
     Read: <a href="https://jwiegley.github.io/git-from-the-bottom-up/">Git from the Bottom Up</a>
   </li>
+  <li><h3>Class 17:</h3>
+    Remo Networking
+  </li>
 </ol>
 
 <!--
