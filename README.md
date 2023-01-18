@@ -304,7 +304,7 @@
     <br>
     Read/ Do: <a href="https://javascript.info/">Whole Chapter - Objects: the basics</a>
     <br>
-    Complete and Submit this project: <a href="https://github.com/leonnoel/100devs-calculator"> Calculator Project00</a>
+    Complete and Submit this project: <a href="https://github.com/leonnoel/100devs-calculator"> Calculator Project</a>
   </li>
 </ol>
 
