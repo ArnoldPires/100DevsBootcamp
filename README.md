@@ -222,6 +222,13 @@
   <li><h3>Class 17:</h3>
     Remo Networking
   </li>
+  <li><h3>Class 18:</h3>
+    More Remo Networking
+    <h4>Homework:</h4>
+    Do: Draft your portfolio
+    <br>
+    Do: Draft of your proposal/ contract
+  </li>
 </ol>
 
 <!--
