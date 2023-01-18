@@ -315,4 +315,11 @@
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
   </li>
+  <li><h3>Class 24:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-intro-to-git-and-github">Intro to Git & Github</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=UpsonO_vBNk&ab_channel=LeonNoel">Git And Github For Beginners in 2022! Sponsored By Microsoft! (class 24) - #100Devs</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+  </li>
 </ol>
