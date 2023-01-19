@@ -329,4 +329,25 @@
     <br>
     Complete: <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg/edit">Professional Checklist</a>
   </li>
+  <li><h3>Class 26:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs-javascript-api-fun">Javascript API Fun</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class22-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=WcSTeotmJtw&ab_channel=LeonNoel">Build A Simple App Using APIs! Beginner Friendly! (class 26) - #100Devs</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Do: Make the cocktailDB api work with spaces between the names!</a>
+    <br>
+    Do: <a href="https://github.com/public-apis/public-apis">Find three API's and build three simple apps using those API's</a>
+    <br>
+    Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB
+    <br>
+    Do: Make the NASA API handle all the data types including video
+    <br>
+    Do: Add an API to your portfolio website
+    <br>
+    Do: A 7kyu kata Codewars  
+  </li>
 </ol>
