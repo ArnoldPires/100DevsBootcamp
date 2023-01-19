@@ -395,11 +395,31 @@
     Class Video Stream: <a href="https://www.youtube.com/watch?v=GihfY5OVDdk&ab_channel=LeonNoel">OOP But It Actually Makes Sense! Free Software Engineering Bootcamp! (class 30) - #100Devs</a>
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+  </li>
+  <li><h3>Class 31:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-javascript-oop-part-2">Javascript - OOP Part 2</a>
     <br>
-    Read/ Do: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md">Understand object-oriented programming Chapter 09</a>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class31-Materials-2022">Class materials</a>
     <br>
-    Do: 7 Codewars
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=PD-dx92RJtg&ab_channel=LeonNoel">What Is Inheritance & Polymorphism? (JavaScript) Free Bootcamp! (class 31) - #100Devs</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
     <br>
-    Read/ Do: <a href="https://eloquentjavascript.net/06_object.html">Eloquent JS Chapter 06</a>
+    Do: Please review, play, and break the code that was gone over during class. Get lost in it.
+    <br>
+    Do: Get a paid client, volunteer, or Contribute to free software
+    <br>
+    Do: Codewars Array ladder (Search array problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu
+  </li>
+  <li><h3>Class 32:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-javascript-oop-bring-it-home">Javascript - OOP Bring it Home</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class32-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=yEhs4XtuAgA&ab_channel=LeonNoel">Object Oriented Programming w/ JS Review! Free Software Engineering Bootcamp! (class 32) - #100Devs</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Do: Codewars String ladder (Search string problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu
   </li>
 </ol>
