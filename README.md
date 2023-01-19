@@ -372,4 +372,19 @@
     <br>
     Do: <a href="https://www.codecademy.com/learn/introduction-to-javascript">Intro JS Course (30 hours Don't pay)</a>
   </li>
+  <li><h3>Class 29:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-javascript-review-back-from-break">Javascript - Back From Break</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class29-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=EOjUT746oLs&ab_channel=LeonNoel">Review The Basics Of JavaScript! Free Software Engineering Bootcamp! (class 29) - #100Devs</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Read/ Do: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md">Understand object-oriented programming Chapter 09</a>
+    <br>
+    Do: 7 Codewars
+    <br>
+    Read/ Do: <a href="https://eloquentjavascript.net/06_object.html">Eloquent JS Chapter 06</a>
+  </li>
 </ol>
