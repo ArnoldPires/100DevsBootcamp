@@ -425,8 +425,6 @@
   <li><h3>Class 33:</h3>
     Slides: <a href="https://slides.com/leonnoel/100devs2-interview-prep">Interview Prep (The Hunt)</a>
     <br>
-    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class33-Materials-2022">Class materials</a>
-    <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=lIE1LFz4LJM&ab_channel=LeonNoel">Why You Are Not Getting Interviews! Secrets To Landing Your First Tech Job (Class 33) - #100Devs</a>
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
