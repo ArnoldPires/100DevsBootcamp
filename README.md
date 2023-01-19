@@ -332,7 +332,7 @@
   <li><h3>Class 26:</h3>
     Slides: <a href="https://slides.com/leonnoel/100devs-javascript-api-fun">Javascript API Fun</a>
     <br>
-    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class22-Materials-2022">Class materials</a>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class26-Materials-2022">Class materials</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=WcSTeotmJtw&ab_channel=LeonNoel">Build A Simple App Using APIs! Beginner Friendly! (class 26) - #100Devs</a>
    <h4>Homework:</h4>
@@ -349,5 +349,14 @@
     Do: Add an API to your portfolio website
     <br>
     Do: A 7kyu kata Codewars  
+  </li>
+  <li><h3>Class 27:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-more-api-review">Javascript - More API Review</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class27-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=b5rjEW-_6po&ab_channel=LeonNoel">Get Data From NASA! Simple Javascript API! Free Software Engineering Bootcamp! (class 27) - #100Devs</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution! 
   </li>
 </ol>
