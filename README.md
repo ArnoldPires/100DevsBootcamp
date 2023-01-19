@@ -422,4 +422,27 @@
     <br>
     Do: Codewars String ladder (Search string problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu
   </li>
+  <li><h3>Class 33:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-interview-prep">Interview Prep (The Hunt)</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class33-Materials-2022">Class materials</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=lIE1LFz4LJM&ab_channel=LeonNoel">Why You Are Not Getting Interviews! Secrets To Landing Your First Tech Job (Class 33) - #100Devs</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Read/ Do: <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises">How to use promises</a>
+    <br>
+    Watch/ Do: <a href="https://www.youtube.com/watch?v=vn3tm0quoqE&ab_channel=Fireship">The Async Await Episode 1 Promised</a>
+    <br>
+    Do: <a href="https://javascript.info/async">Promises, async/await</a>
+    <br>
+    Do: Start prepping THE BANK
+    <br>
+    Do: Complete your professional links
+    <br>
+    Read: <a href="https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern Javascript for Dinosaurs</a>
+    <br>
+    Watch: <a href="https://www.youtube.com/watch?v=fBNz5xF-Kx4&ab_channel=TraversyMedia">Node.js Crash course</a>
+  </li>
 </ol>
