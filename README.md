@@ -322,4 +322,11 @@
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
   </li>
+  <li><h3>Class 25:</h3>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=ZlB4BockYNQ&ab_channel=LeonNoel">Fix Your Resume So You Get Tech Interviews! (class 25) - #100Devs</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Complete: <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg/edit">Professional Checklist</a>
+  </li>
 </ol>
