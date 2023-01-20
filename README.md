@@ -545,12 +545,16 @@
   </li>
   <li><h3>Class 43:</h3>
     Slides: <a href="https://slides.com/leonnoel/100devs2-todo-list">Todo List CRUD Express</a>
-    <br>
-    Class Video Stream: <a href="https://www.youtube.com/watch?v=3eafTTnEfMw">What is MongoDB? CRUD Apps For Beginners! (class 40) - #100Devs</a>
-    <br>
    <h4>Homework:</h4>
     Do: Make your own App and push to Heroku <a href="https://github.com/100devs/simple-express-app-submission">Simple-express-app-submission</a>
     <br>
     Watch: <a href="https://www.youtube.com/watch?v=SBvmnHTQIPY">Node.js App From Scratch | Express, MongoDB & Google OAuth</a>
+  </li>
+  <li><h3>Class 44:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-todo-list-cohort-2">Todo List CRUD Express take 2</a>
+   <h4>Homework:</h4>
+    Watch: <a href="https://www.youtube.com/watch?v=1IsL6g2ixak">What is programming MVC? [Detailed Explanation]</a>
+    <br>
+    Peek: <a href="https://github.com/100devs/todo-mvc-auth-local">todo-mvc-auth-local</a>
   </li>
 </ol>
