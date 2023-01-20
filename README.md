@@ -539,4 +539,7 @@
     <br>
     Code for the class: <a href="https://github.com/100devs/rap-names-express">rap-names-express</a>
   </li>
+  <li><h3>Class 42:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs-fresh">Fresh It's our turn</a>
+  </li>
 </ol>
