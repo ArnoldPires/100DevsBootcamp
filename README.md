@@ -528,7 +528,6 @@
     Slides: <a href="https://slides.com/leonnoel/100devs2-express-crud">Express & CRUD</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=3eafTTnEfMw">What is MongoDB? CRUD Apps For Beginners! (class 40) - #100Devs</a>
-    <br>
    <h4>Homework:</h4>
     Do: Make your own App and push to Heroku
   </li>
@@ -541,5 +540,17 @@
   </li>
   <li><h3>Class 42:</h3>
     Slides: <a href="https://slides.com/leonnoel/100devs-fresh">Fresh It's our turn</a>
+    <h4>Homework:</h4>
+    Do: Write comments explaining what the code is doing in this app <a href="https://github.com/100devs/todo-list-express">todo-list-express</a>
+  </li>
+  <li><h3>Class 43:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-todo-list">Todo List CRUD Express</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=3eafTTnEfMw">What is MongoDB? CRUD Apps For Beginners! (class 40) - #100Devs</a>
+    <br>
+   <h4>Homework:</h4>
+    Do: Make your own App and push to Heroku <a href="https://github.com/100devs/simple-express-app-submission">Simple-express-app-submission</a>
+    <br>
+    Watch: <a href="https://www.youtube.com/watch?v=SBvmnHTQIPY">Node.js App From Scratch | Express, MongoDB & Google OAuth</a>
   </li>
 </ol>
