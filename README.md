@@ -443,4 +443,13 @@
     <br>
     Watch: <a href="https://www.youtube.com/watch?v=fBNz5xF-Kx4&ab_channel=TraversyMedia">Node.js Crash course</a>
   </li>
+  <li><h3>Class 34:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-interview-prep-part-2">Interview Prep (The Hunt - Part 2)</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=KM1RyffIKMg">Crush Your Technical Interviews! Secrets To Landing Your First Tech Job (Class 34) - #100Devs</a>
+    <br>
+    Video: <a href="https://www.youtube.com/watch?v=QoweoDsi5ZI">Crafting Your Story</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+  </li>
 </ol>
