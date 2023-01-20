@@ -564,4 +564,11 @@
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=jZ-kmmgi_d0">How To Build Fullstack Apps With Javascript! Easy To Understand! (class 44/45) - #100Devs</a>
   </li>
+  <li><h3>Class 46:</h3>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=SVX_HMum0n4">Build A Node.js MVC App! Complete Easy Walkthrough! (class 46/47) - #100Devs</a>
+    <br>
+    Code for the class: <a href="https://github.com/100devs/todo-mvc">todo-mvc</a>
+   <h4>Homework:</h4>
+    Do: Build a MVC leature
+  </li>
 </ol>
