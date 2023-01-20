@@ -486,7 +486,6 @@
     Class Video Stream: <a href="https://www.youtube.com/watch?v=nv5SequVETI">JavaScript Event Loop For Beginners! (Class 36) - #100Devs</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class36-Materials-2022">Class materials</a>
-    <br>
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
     <br>
@@ -500,7 +499,6 @@
     Class Video Stream: <a href="https://www.youtube.com/watch?v=6rsA_RCe5YM">No Express! Fullstack App Just Node! (class 37) - #100Devs</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class37-Materials-2022">Class materials</a>
-    <br>
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
   </li>
@@ -510,7 +508,6 @@
     Class Video Stream: <a href="https://www.youtube.com/watch?v=000ai6I6Aow">Build Your Own API HOSTED On Heroku! (class 38) - #100Devs</a>
     <br>
     <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class38-Materials-2022">Class materials</a>
-    <br>
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
     <br>
@@ -524,16 +521,22 @@
     Slides: <a href="https://slides.com/leonnoel/100devs2-node-express-again">Node & Express Again</a>
     <br>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=zHq0v5RD_Zk">CRUD APIs For Beginners! (class 39) - #100Devs</a>
-    <br>
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
   </li>
   <li><h3>Class 40:</h3>
     Slides: <a href="https://slides.com/leonnoel/100devs2-express-crud">Express & CRUD</a>
     <br>
-    Class Video Stream: <a href="https://www.youtube.com/watch?v=zHq0v5RD_Zk">CRUD APIs For Beginners! (class 39) - #100Devs</a>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=3eafTTnEfMw">What is MongoDB? CRUD Apps For Beginners! (class 40) - #100Devs</a>
     <br>
    <h4>Homework:</h4>
     Do: Make your own App and push to Heroku
+  </li>
+  <li><h3>Class 41:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-express-crud-cohort-2">Express & CRUD & YOU</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=LHf_STV_rLE">Build A Simple CRUD App With Express, MongoDB, & EJS! (class 41) - #100Devs</a>
+    <br>
+    Code for the class: <a href="https://github.com/100devs/rap-names-express">rap-names-express</a>
   </li>
 </ol>
