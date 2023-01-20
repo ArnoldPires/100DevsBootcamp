@@ -571,4 +571,6 @@
    <h4>Homework:</h4>
     Do: Build a MVC leature
   </li>
+  <li><h3>Class 47:</h3>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=SVX_HMum0n4">Build A Node.js MVC App! Complete Easy Walkthrough! (class 46/47) - #100Devs</a>
 </ol>
