@@ -496,4 +496,12 @@
     <br>
     Do: <a href="https://zellwk.com/blog/crud-express-mongodb/">Building a Simple CRUD app with Node, Express, and MongoDB</a>
   </li>
+  <li><h3>Class 37:</h3>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=6rsA_RCe5YM">No Express! Fullstack App Just Node! (class 37) - #100Devs</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class37-Materials-2022">Class materials</a>
+    <br>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+  </li>
 </ol>
