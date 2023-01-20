@@ -452,4 +452,13 @@
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
   </li>
+  <li><h3>Super Review JS:</h3>
+    Slides: <a href="https://slides.com/leonnoel/js-super-review">JS - Review</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=1sRJYuaqoiI">JavaScript Crash Course in 2022! Free Coding Bootcamp! #100Devs</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/SuperReview-JS-2022">Class materials</a>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+  </li>
 </ol>
