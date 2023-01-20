@@ -504,4 +504,20 @@
    <h4>Homework:</h4>
     Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
   </li>
+  <li><h3>Class 38:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-node-express">Node & Express</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=000ai6I6Aow">Build Your Own API HOSTED On Heroku! (class 38) - #100Devs</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class38-Materials-2022">Class materials</a>
+    <br>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Create: Heroku, Mongo Atlas, and Postman Accounts
+    <br>
+    Read: <a href="https://fullstackopen.com/en/part3/node_js_and_express">Node.js and Express (Fullstack open)</a>
+    <br>
+    Do: Make your own API and push to Heroku
+  </li>
 </ol>
