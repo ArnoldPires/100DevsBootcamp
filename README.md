@@ -480,4 +480,20 @@
     <br>
     Watch: <a href="https://www.youtube.com/watch?v=VOfqO4-RLd4">Let's Install Node.js and Do Cool Stuff With It! #100Devs</a>
   </li>
+  <li><h3>Class 36:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-fancy-js-terms-and-node">Fancy JS terms & Node</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=nv5SequVETI">JavaScript Event Loop For Beginners! (Class 36) - #100Devs</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/100DevsBootcamp/tree/main/Class36-Materials-2022">Class materials</a>
+    <br>
+   <h4>Homework:</h4>
+    Do: A minimum of 1, <a href="https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&tags=Fundamentals&xids=completed&beta=false&order_by=total_completed%20desc">8 kyu Fundamentals on CodeWars EVERY DAY</a>. Spend at least 20 minutes trying to solve it before looking at the solution!
+    <br>
+    Watch: <a href="https://www.youtube.com/watch?v=cCOL7MC4Pl0">Jake Archibald on the web browser event loop, setTimeout, micro tasks, requestAnimationFrame</a>
+    <br>
+    Watch: <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">What the heck is the event loop anyway? | Philip Roberts | JSConf EU</a>
+    <br>
+    Do: <a href="https://zellwk.com/blog/crud-express-mongodb/">Building a Simple CRUD app with Node, Express, and MongoDB</a>
+  </li>
 </ol>
