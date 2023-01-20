@@ -552,9 +552,16 @@
   </li>
   <li><h3>Class 44:</h3>
     Slides: <a href="https://slides.com/leonnoel/100devs2-todo-list-cohort-2">Todo List CRUD Express take 2</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=jZ-kmmgi_d0">How To Build Fullstack Apps With Javascript! Easy To Understand! (class 44/45) - #100Devs</a>
    <h4>Homework:</h4>
     Watch: <a href="https://www.youtube.com/watch?v=1IsL6g2ixak">What is programming MVC? [Detailed Explanation]</a>
     <br>
     Peek: <a href="https://github.com/100devs/todo-mvc-auth-local">todo-mvc-auth-local</a>
+  </li>
+  <li><h3>Class 45:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-todo-list-cohort-2">Todo List CRUD Express take 2</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=jZ-kmmgi_d0">How To Build Fullstack Apps With Javascript! Easy To Understand! (class 44/45) - #100Devs</a>
   </li>
 </ol>
