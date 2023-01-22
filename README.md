@@ -661,4 +661,25 @@
     <br>
     Do: Mentally break your favorite website down into reuseable components
   </li>
+  <li><h3>Class 57:</h3>
+   <h4>Homework:</h4>
+   Make 3 connections a week
+   <br>
+   Research the following string methods:
+   chatAt, charCodeAt, concat
+   <br>
+   includes, indexOf
+   <br>
+   match
+   <br>
+   repeat, replace
+   <br>
+   search, slice, split, substr
+   <br>
+   toLowerCase, toUpperCase, trim
+   <br>
+   Give a short description of what the method does, how it works, it's time complexity, and give three examples of it in action.
+   <br>
+    Do: 5 Codewars (tagged as Strings)
+  </li>
 </ol>
