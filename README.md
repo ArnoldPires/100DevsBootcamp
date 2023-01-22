@@ -635,4 +635,11 @@
     <br>
     Do: 5 Codewars (tagged as Arrays)
   </li>
+  <li><h3>Class 54:</h3>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=xsKGlEemTAo">Let's Build A Social Network with Node, Express, MongoDB, & Cloudinary! (class 53-55) #100devs</a>
+   <h4>Homework:</h4>
+    Make 3 connections a week
+    <br>
+    Do: 5 Codewars (tagged as Arrays)
+  </li>
 </ol>
