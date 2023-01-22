@@ -585,4 +585,16 @@
     <br>
     Do: 5 Codewars (tagged as strings)
   </li>
+  <li><h3>Class 49:</h3>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=z5UgtXOxEEk">Easily Add Authentication To Your Node Apps! Email Logins with Passport (class 49-52) #100devs</a>
+  </li>
+  <li><h3>Class 50:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-auth-project-night">Auth & Project Night</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=z5UgtXOxEEk">Easily Add Authentication To Your Node Apps! Email Logins with Passport (class 49-52) #100devs</a>
+   <h4>Homework:</h4>
+    Make 3 connections a week
+    <br>
+    Do: 5 Codewars (tagged as strings)
+  </li>
 </ol>
