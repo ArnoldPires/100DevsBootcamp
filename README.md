@@ -716,4 +716,8 @@
     <br>
     Do: <a href="http://web.archive.org/web/20210616161653/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms">The Ultimate Guide to JavaScript Algorithms Courses</a>
   </li>
+  <li><h3>Class 63 - Class 68:</h3>
+   <h4>Homework:</h4>
+    Do: <a href="https://frontendmasters.com/courses/practical-algorithms/">A Practical Guide to Algorithms with JavaScript</a>
+  </li>
 </ol>
