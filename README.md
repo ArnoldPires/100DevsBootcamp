@@ -610,4 +610,18 @@
     <br>
     Do: 5 Codewars (tagged as strings)
   </li>
+  <li><h3>Class 52:</h3>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=z5UgtXOxEEk">Easily Add Authentication To Your Node Apps! Email Logins with Passport (class 49-52) #100devs</a>
+    <br>
+    Code for the class: <a href="https://github.com/100devs/todo-mvc">todo-mvc</a>
+   <h4>Homework:</h4>
+    Make 3 connections a week
+    <br>
+    Watch: <a href="https://www.youtube.com/watch?v=R8rmfD9Y5-c">8 Must Know JavaScript Array Methods</a>
+    <br>
+    Read: <a href="https://javascript.info/array-methods">Array methods</a>
+    <br>
+    Read: <a href="https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/">A brief introduction to array destructuring in ES6</a>
+    Do: 5 Codewars (tagged as Arrays)
+  </li>
 </ol>
