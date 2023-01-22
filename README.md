@@ -653,4 +653,12 @@
     <br>
     Do: Mentally break your favorite website down into reuseable components
   </li>
+  <li><h3>Class 56:</h3>
+   <h4>Homework:</h4>
+    Make 3 connections a week
+    <br>
+    Do: 5 Codewars (tagged as Arrays)
+    <br>
+    Do: Mentally break your favorite website down into reuseable components
+  </li>
 </ol>
