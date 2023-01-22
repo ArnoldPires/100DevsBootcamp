@@ -720,4 +720,8 @@
    <h4>Homework:</h4>
     Do: <a href="https://frontendmasters.com/courses/practical-algorithms/">A Practical Guide to Algorithms with JavaScript</a>
   </li>
+  </li>
+    <h4>Super Review Backend JS</h4>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=JGFS11u1TIQ">JavaScript Backend Web Development Tutorial (with Node)</a>
+  </li>
 </ol>
