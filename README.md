@@ -700,4 +700,12 @@
     <br>
     Do: 5 Codewars (tagged as Strings)
   </li>
+  <li><h3>Class 60:</h3>
+  Slides: <a href="https://slides.com/leonnoel/100devs2-see-react-together">See React Together</a>
+  <br>
+   <h4>Homework:</h4>
+    Make 3 connections a week
+    <br>
+    Do: 5 Codewars (tagged as Strings)
+  </li>
 </ol>
