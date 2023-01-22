@@ -708,4 +708,12 @@
     <br>
     Do: 5 Codewars (tagged as Strings)
   </li>
+  <li><h3>Class 61 & Class 62:</h3>
+  Slides: <a href="https://slides.com/leonnoel/100devs2-interview-secrets">Interview Secrets</a>
+  <br>
+   <h4>Homework:</h4>
+    Make 3 connections a week
+    <br>
+    Do: <a href="http://web.archive.org/web/20210616161653/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms">The Ultimate Guide to JavaScript Algorithms Courses</a>
+  </li>
 </ol>
