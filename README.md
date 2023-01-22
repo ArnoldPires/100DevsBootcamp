@@ -622,6 +622,17 @@
     Read: <a href="https://javascript.info/array-methods">Array methods</a>
     <br>
     Read: <a href="https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/">A brief introduction to array destructuring in ES6</a>
+    <br>
+    Do: 5 Codewars (tagged as Arrays)
+  </li>
+  <li><h3>Class 53:</h3>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=xsKGlEemTAo">Let's Build A Social Network with Node, Express, MongoDB, & Cloudinary! (class 53-55) #100devs</a>
+    <br>
+    Code for the class: <a href="https://github.com/100devs/rap-names-review">rap-names-review</a>
+    <br>
+   <h4>Homework:</h4>
+    Make 3 connections a week
+    <br>
     Do: 5 Codewars (tagged as Arrays)
   </li>
 </ol>
