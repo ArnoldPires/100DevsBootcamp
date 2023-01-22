@@ -573,4 +573,16 @@
   </li>
   <li><h3>Class 47:</h3>
     Class Video Stream: <a href="https://www.youtube.com/watch?v=SVX_HMum0n4">Build A Node.js MVC App! Complete Easy Walkthrough! (class 46/47) - #100Devs</a>
+  </li>
+   <li><h3>Class 48:</h3>
+    Slides: <a href="https://slides.com/leonnoel/100devs2-the-hunt">The Hunt Begins</a>
+    <br>
+    Class Video Stream: <a href="https://www.youtube.com/watch?v=2ObpRuvmT48">How To Prepare For #THEHUNT - (class48) #100devs</a>
+   <h4>Homework:</h4>
+    Make 3 connections a week
+    <br>
+    Read: <a href="https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961">Essential JavaScript String Methods</a>
+    <br>
+    Do: 5 Codewars (tagged as strings)
+  </li>
 </ol>
