@@ -682,4 +682,15 @@
    <br>
     Do: 5 Codewars (tagged as Strings)
   </li>
+  <li><h3>Class 58:</h3>
+  Class Video Stream: <a href="https://www.youtube.com/watch?v=MFEmmHEm6nk">Let's Explore the Basics of React! #100Devs</a>
+   <h4>Homework:</h4>
+    Make 3 connections a week
+    <br>
+    Do: 5 Codewars (tagged as Strings)
+    <br>
+    Watch/ Do: <a href="https://www.youtube.com/watch?v=w7ejDZ8SWv8">React JS Crash Course</a>
+    <br>
+    Do: <a href="https://egghead.io/courses/the-beginner-s-guide-to-react">The Beginner's Guide to React</a>
+  </li
 </ol>
